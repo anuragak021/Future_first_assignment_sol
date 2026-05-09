@@ -11,6 +11,8 @@ build/
 
 # Environment — never commit real keys
 .env
+.env.local
+.env.*.local
 
 # Database & vector store (generated locally by setup)
 backend/insights.db
