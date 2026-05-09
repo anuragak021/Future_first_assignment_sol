@@ -14,6 +14,10 @@ class Settings(BaseSettings):
 
     groq_api_key: str = Field(default="", env="GROQ_API_KEY")
     openrouter_api_key: str = Field(default="", env="OPENROUTER_API_KEY")
+    allowed_origins: str = Field(
+        default="http://localhost:5173,http://localhost:3000",
+        env="ALLOWED_ORIGINS",
+    )
 
     # Set USE_SQLITE=true for local dev without Docker
     use_sqlite: bool = Field(default=False, env="USE_SQLITE")

@@ -1,0 +1,45 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential libpq-dev && rm -rf /var/lib/apt/lists/*
+
+# Install deps first for better layer caching
+COPY backend/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy backend source and project-level assets
+COPY backend/ .
+COPY data/csv/ /data/csv/
+COPY data/pdfs/ /data/pdfs/
+COPY config.yaml /app/config.yaml
+
+# Build-time env: SQLite + embedded Chroma so no external services needed
+ENV USE_SQLITE=true \
+    USE_EMBEDDED_CHROMA=true \
+    SQLITE_PATH=/app/insights.db \
+    CHROMA_PERSIST_DIR=/app/chroma_data \
+    OPENROUTER_API_KEY=build-placeholder
+
+# Pre-download HuggingFace models into the image layer
+RUN python -c "\
+from sentence_transformers import SentenceTransformer, CrossEncoder; \
+SentenceTransformer('BAAI/bge-small-en-v1.5'); \
+CrossEncoder('BAAI/bge-reranker-base') \
+"
+
+# Seed SQLite DB with CSV data
+RUN python -m app.data.seed
+
+# Ingest PDFs into embedded ChromaDB
+RUN python -c "\
+from app.data.ingestion import DocumentIngestionService; \
+svc = DocumentIngestionService(); \
+results = svc.ingestAllPdfs(); \
+print('Ingested chunks:', results) \
+"
+
+EXPOSE 8000
+
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]

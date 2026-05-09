@@ -45,4 +45,3 @@ Thumbs.db
 
 # Code review graph cache
 .code-review-graph/
-*.sh

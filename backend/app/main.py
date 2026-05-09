@@ -5,6 +5,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes import chat, health, trace
+from app.config import getSettings
 from app.observability.logging import configureLogging
 
 logger = logging.getLogger(__name__)
@@ -25,9 +26,10 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+_origins = [o.strip() for o in getSettings().allowed_origins.split(",") if o.strip()]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_origins=_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
