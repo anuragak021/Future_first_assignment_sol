@@ -1,0 +1,601 @@
+region,city,title,period,total_watch_minutes,unique_viewers,avg_completion_rate,revenue_estimate
+North,Oslo,Je Suis Karl,2025-Q1,413853.3,4936,0.5,24664.15
+North,Oslo,The Final Frontier,2025-Q1,366432.9,3989,0.87,50135.66
+North,Oslo,Minsara Kanavu,2025-Q1,243766.9,1133,0.85,45215.69
+North,Oslo,Paranoia,2025-Q1,582994.1,1092,0.86,35388.98
+North,Oslo,Sankofa,2025-Q1,305065.9,2574,0.69,56288.45
+North,Oslo,The Father Who Moves Mountains,2025-Q1,221392.2,1615,0.48,25370.22
+North,Oslo,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q1,406140.4,499,0.46,14741.89
+North,Oslo,Birth of the Dragon,2025-Q1,153676.0,3161,0.74,29619.84
+North,Oslo,Silver Lining,2025-Q1,297456.0,5045,0.43,3959.02
+North,Oslo,Last Kingdom,2025-Q1,22790.5,5905,0.72,20824.7
+North,Stockholm,Blue Horizon,2025-Q1,175656.1,4132,0.44,44527.74
+North,Stockholm,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q1,218799.4,5012,0.57,43762.1
+North,Stockholm,Crimson Tide,2025-Q1,351826.6,5192,0.85,8986.28
+North,Stockholm,Last Kingdom,2025-Q1,10277.6,6603,0.83,43753.9
+North,Stockholm,Minsara Kanavu,2025-Q1,586675.5,1219,0.81,5429.21
+North,Stockholm,Winter's Edge,2025-Q1,237191.7,5240,0.66,55004.92
+North,Stockholm,Neon Nights,2025-Q1,325340.0,718,0.56,22922.25
+North,Stockholm,Intrusion,2025-Q1,270244.4,2458,0.86,26914.3
+North,Stockholm,Grown Ups,2025-Q1,471599.1,1068,0.74,56726.36
+North,Stockholm,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q1,218118.8,5651,0.74,54790.06
+North,Helsinki,The Final Frontier,2025-Q1,114309.1,3957,0.76,45700.11
+North,Helsinki,Dark Skies,2025-Q1,49468.9,317,0.83,10027.2
+North,Helsinki,The Father Who Moves Mountains,2025-Q1,61058.9,5836,0.76,28869.01
+North,Helsinki,Grown Ups,2025-Q1,42417.0,5524,0.44,43420.99
+North,Helsinki,Mirage City,2025-Q1,45325.7,1181,0.54,40672.76
+North,Helsinki,Intrusion,2025-Q1,240567.0,5228,0.7,55677.97
+North,Helsinki,Ankahi Kahaniya,2025-Q1,24183.8,5254,0.85,38140.36
+North,Helsinki,Winter's Edge,2025-Q1,130653.7,2115,0.47,12306.14
+North,Helsinki,Phantom Signal,2025-Q1,296913.7,4516,0.6,9741.09
+North,Helsinki,Last Kingdom,2025-Q1,522712.8,3201,0.85,31250.6
+South,Mumbai,The Starling,2025-Q1,509023.8,5066,0.57,1783.62
+South,Mumbai,The Stronghold,2025-Q1,27061.6,6214,0.53,49895.6
+South,Mumbai,Avvai Shanmughi,2025-Q1,466016.4,2112,0.71,32503.5
+South,Mumbai,Minsara Kanavu,2025-Q1,545639.7,1316,0.88,42330.82
+South,Mumbai,The Lost Archive,2025-Q1,53158.3,1273,0.54,21002.49
+South,Mumbai,Paranoia,2025-Q1,398636.3,4214,0.87,23109.37
+South,Mumbai,Dick Johnson Is Dead,2025-Q1,133128.1,4021,0.82,32354.67
+South,Mumbai,Rising Storm,2025-Q1,162134.3,4121,0.76,12501.47
+South,Mumbai,Grown Ups,2025-Q1,412976.6,3481,0.59,4758.91
+South,Mumbai,Crimson Tide,2025-Q1,591404.7,7436,0.52,31665.68
+South,Bangalore,Rising Storm,2025-Q1,218328.5,5837,0.64,17923.81
+South,Bangalore,Blue Horizon,2025-Q1,264338.7,7192,0.84,13609.57
+South,Bangalore,Birth of the Dragon,2025-Q1,533617.7,621,0.84,29527.18
+South,Bangalore,Sankofa,2025-Q1,596119.7,2688,0.92,13626.14
+South,Bangalore,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q1,486601.1,2139,0.67,50148.15
+South,Bangalore,Grown Ups,2025-Q1,406858.3,2672,0.91,23461.22
+South,Bangalore,Stellar Run,2025-Q1,286864.4,3464,0.54,26756.57
+South,Bangalore,Minsara Kanavu,2025-Q1,183168.1,3588,0.49,17081.58
+South,Bangalore,Neon Nights,2025-Q1,483280.0,2459,0.79,49912.43
+South,Bangalore,Jeans,2025-Q1,22791.3,3432,0.74,19236.63
+South,Chennai,Minsara Kanavu,2025-Q1,492869.8,544,0.88,46071.98
+South,Chennai,Echo Valley,2025-Q1,452909.4,7274,0.63,29785.31
+South,Chennai,Jaws,2025-Q1,362393.5,1995,0.81,42278.13
+South,Chennai,Confessions of an Invisible Girl,2025-Q1,372194.5,4886,0.83,15815.34
+South,Chennai,Neon Nights,2025-Q1,527628.1,7198,0.48,8293.93
+South,Chennai,Sankofa,2025-Q1,75045.8,3680,0.88,39576.22
+South,Chennai,Winter's Edge,2025-Q1,541610.3,1624,0.48,12155.07
+South,Chennai,Grown Ups,2025-Q1,536858.0,3880,0.7,51493.33
+South,Chennai,Silver Lining,2025-Q1,561601.7,5828,0.77,42092.36
+South,Chennai,Harbor Lights,2025-Q1,179256.0,2925,0.93,43520.85
+East,Tokyo,Paranoia,2025-Q1,280783.7,1767,0.53,36852.37
+East,Tokyo,Echo Valley,2025-Q1,89033.1,2497,0.65,40997.74
+East,Tokyo,Avvai Shanmughi,2025-Q1,568632.2,7861,0.48,14959.42
+East,Tokyo,The Lost Archive,2025-Q1,272377.4,6089,0.88,41758.22
+East,Tokyo,Grown Ups,2025-Q1,556614.2,5823,0.79,19341.04
+East,Tokyo,My Little Pony: A New Generation,2025-Q1,433483.0,3333,0.67,46073.27
+East,Tokyo,Crimson Tide,2025-Q1,272707.5,3339,0.51,37993.34
+East,Tokyo,Intrusion,2025-Q1,405832.4,7052,0.87,58782.17
+East,Tokyo,Confessions of an Invisible Girl,2025-Q1,316929.8,1742,0.4,4508.13
+East,Tokyo,Phantom Signal,2025-Q1,91607.8,6602,0.85,2110.46
+East,Seoul,Silver Lining,2025-Q1,130088.7,6266,0.52,51022.36
+East,Seoul,Birth of the Dragon,2025-Q1,408660.1,3221,0.41,47504.02
+East,Seoul,The Starling,2025-Q1,108167.5,5763,0.7,24625.56
+East,Seoul,Sankofa,2025-Q1,437031.2,5327,0.45,12807.31
+East,Seoul,Harbor Lights,2025-Q1,15149.0,2848,0.75,15565.08
+East,Seoul,Neon Nights,2025-Q1,551239.2,7396,0.64,55000.88
+East,Seoul,Minsara Kanavu,2025-Q1,88517.7,4706,0.94,55075.0
+East,Seoul,Echo Valley,2025-Q1,175159.7,5958,0.86,7266.62
+East,Seoul,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q1,120800.4,2242,0.74,45934.07
+East,Seoul,The Father Who Moves Mountains,2025-Q1,65213.2,4719,0.91,22764.92
+East,Singapore,Stellar Run,2025-Q1,540781.9,5960,0.78,42654.66
+East,Singapore,Harbor Lights,2025-Q1,45408.5,7290,0.43,57123.69
+East,Singapore,Blue Horizon,2025-Q1,442911.5,4827,0.75,43831.06
+East,Singapore,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q1,31076.2,2191,0.75,4144.44
+East,Singapore,Crimson Tide,2025-Q1,46247.1,2082,0.44,24637.18
+East,Singapore,Neon Nights,2025-Q1,537238.6,2884,0.44,13207.82
+East,Singapore,Silver Lining,2025-Q1,204801.9,4379,0.75,6630.16
+East,Singapore,Dick Johnson Is Dead,2025-Q1,313880.4,1879,0.66,27755.85
+East,Singapore,Last Kingdom,2025-Q1,217835.5,509,0.51,37655.69
+East,Singapore,Jeans,2025-Q1,17093.1,7654,0.62,55918.12
+West,New York,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q1,31294.1,7981,0.91,2713.5
+West,New York,The Starling,2025-Q1,534260.6,6574,0.9,6611.09
+West,New York,Dark Skies,2025-Q1,539500.1,4418,0.78,38927.36
+West,New York,The Lost Archive,2025-Q1,130481.5,5848,0.46,6057.83
+West,New York,Dick Johnson Is Dead,2025-Q1,225830.0,7700,0.61,58866.68
+West,New York,Minsara Kanavu,2025-Q1,315241.9,3560,0.46,34340.64
+West,New York,Paranoia,2025-Q1,287313.5,6912,0.61,21696.75
+West,New York,Dark Orbit,2025-Q1,444147.5,4370,0.51,12352.77
+West,New York,Sankofa,2025-Q1,254155.7,4003,0.88,43305.32
+West,New York,Echo Valley,2025-Q1,520254.1,2826,0.93,32410.43
+West,Los Angeles,Avvai Shanmughi,2025-Q1,203017.9,5880,0.48,22492.24
+West,Los Angeles,Neon Nights,2025-Q1,225200.2,2061,0.94,34920.89
+West,Los Angeles,My Little Pony: A New Generation,2025-Q1,360027.5,6334,0.68,17296.18
+West,Los Angeles,Intrusion,2025-Q1,238858.8,5502,0.48,28353.41
+West,Los Angeles,Confessions of an Invisible Girl,2025-Q1,468298.3,4048,0.58,3077.2
+West,Los Angeles,Sankofa,2025-Q1,411978.5,4518,0.85,55777.32
+West,Los Angeles,Rising Storm,2025-Q1,262376.6,4072,0.73,12877.04
+West,Los Angeles,The Starling,2025-Q1,490724.5,6460,0.51,9521.68
+West,Los Angeles,Last Kingdom,2025-Q1,314108.7,1775,0.49,49631.04
+West,Los Angeles,Mirage City,2025-Q1,115474.0,6276,0.61,35755.35
+West,Chicago,Dark Orbit,2025-Q1,107117.8,1130,0.88,22551.69
+West,Chicago,My Little Pony: A New Generation,2025-Q1,186896.3,972,0.93,762.88
+West,Chicago,Confessions of an Invisible Girl,2025-Q1,331177.4,6802,0.5,54958.34
+West,Chicago,Harbor Lights,2025-Q1,325750.8,4722,0.91,7941.17
+West,Chicago,The Stronghold,2025-Q1,436015.6,165,0.75,46048.78
+West,Chicago,Last Kingdom,2025-Q1,142018.6,7186,0.79,10431.57
+West,Chicago,Jeans,2025-Q1,295430.3,3992,0.66,55231.3
+West,Chicago,Avvai Shanmughi,2025-Q1,570574.6,1049,0.47,45717.35
+West,Chicago,Intrusion,2025-Q1,182568.8,2713,0.47,44083.02
+West,Chicago,Phantom Signal,2025-Q1,394959.2,7649,0.61,565.25
+Central,Dubai,Silver Lining,2025-Q1,515954.2,1253,0.51,40670.57
+Central,Dubai,Stellar Run,2025-Q1,298427.3,7378,0.77,3583.83
+Central,Dubai,Dark Skies,2025-Q1,445927.0,4060,0.87,41658.5
+Central,Dubai,The Final Frontier,2025-Q1,273750.8,3947,0.45,37333.09
+Central,Dubai,Harbor Lights,2025-Q1,557472.6,5931,0.9,56113.2
+Central,Dubai,Rising Storm,2025-Q1,409934.9,4872,0.75,6946.02
+Central,Dubai,Phantom Signal,2025-Q1,225211.1,5096,0.64,46426.9
+Central,Dubai,Minsara Kanavu,2025-Q1,247555.2,3829,0.62,2921.17
+Central,Dubai,Ankahi Kahaniya,2025-Q1,369546.0,5680,0.61,51354.32
+Central,Dubai,Intrusion,2025-Q1,124915.1,6481,0.55,1539.19
+Central,Istanbul,Avvai Shanmughi,2025-Q1,225072.3,6492,0.65,12417.3
+Central,Istanbul,Crimson Tide,2025-Q1,419789.0,1141,0.86,34977.6
+Central,Istanbul,Winter's Edge,2025-Q1,458541.0,2097,0.94,42353.52
+Central,Istanbul,The Starling,2025-Q1,280606.3,3064,0.78,28955.32
+Central,Istanbul,Ankahi Kahaniya,2025-Q1,153515.5,510,0.82,20407.21
+Central,Istanbul,Harbor Lights,2025-Q1,475268.6,4906,0.46,54518.44
+Central,Istanbul,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q1,203964.3,6204,0.79,3109.45
+Central,Istanbul,Neon Nights,2025-Q1,244209.6,6889,0.9,25434.01
+Central,Istanbul,Dark Skies,2025-Q1,28130.7,367,0.47,21244.62
+Central,Istanbul,Intrusion,2025-Q1,347374.2,1811,0.77,50759.38
+Central,Cairo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q1,221312.4,7427,0.45,11620.02
+Central,Cairo,Paranoia,2025-Q1,177375.9,3400,0.66,5931.74
+Central,Cairo,Mirage City,2025-Q1,158768.0,2086,0.93,42797.39
+Central,Cairo,Dark Orbit,2025-Q1,555235.0,5290,0.61,17376.05
+Central,Cairo,Winter's Edge,2025-Q1,500735.1,6754,0.49,52657.49
+Central,Cairo,Crimson Tide,2025-Q1,64055.4,7880,0.67,8753.19
+Central,Cairo,My Little Pony: A New Generation,2025-Q1,397865.8,3567,0.6,46831.47
+Central,Cairo,Dark Skies,2025-Q1,93772.3,3318,0.7,16200.24
+Central,Cairo,Intrusion,2025-Q1,534493.2,7486,0.49,43375.95
+Central,Cairo,Blue Horizon,2025-Q1,405188.2,2476,0.4,48745.22
+North,Oslo,Crimson Tide,2025-Q2,20306.1,804,0.72,33788.96
+North,Oslo,Phantom Signal,2025-Q2,209373.1,1807,0.85,29982.68
+North,Oslo,Jeans,2025-Q2,77579.5,7918,0.76,43913.17
+North,Oslo,Silver Lining,2025-Q2,528673.9,5802,0.8,59306.94
+North,Oslo,Rising Storm,2025-Q2,198958.3,3547,0.86,54619.79
+North,Oslo,Jaws,2025-Q2,235019.8,5938,0.82,53857.33
+North,Oslo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,488975.9,832,0.9,3883.43
+North,Oslo,Avvai Shanmughi,2025-Q2,32252.6,529,0.69,35913.72
+North,Oslo,Neon Nights,2025-Q2,148529.7,4630,0.64,7280.5
+North,Oslo,The Stronghold,2025-Q2,12095.4,7804,0.57,49525.01
+North,Stockholm,Rising Storm,2025-Q2,456038.9,5219,0.78,37487.43
+North,Stockholm,Last Kingdom,2025-Q2,145767.9,7665,0.54,13627.19
+North,Stockholm,Dark Orbit,2025-Q2,271654.1,3579,0.45,46333.71
+North,Stockholm,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,242405.8,4472,0.9,1971.59
+North,Stockholm,Intrusion,2025-Q2,475433.1,774,0.48,8657.77
+North,Stockholm,Echo Valley,2025-Q2,384761.8,4359,0.44,51256.45
+North,Stockholm,Jaws,2025-Q2,520478.0,4786,0.57,27802.4
+North,Stockholm,Winter's Edge,2025-Q2,421470.5,2200,0.82,50884.85
+North,Stockholm,Sankofa,2025-Q2,524370.8,7565,0.79,4882.18
+North,Stockholm,Je Suis Karl,2025-Q2,498643.2,823,0.42,21256.67
+North,Helsinki,Mirage City,2025-Q2,307264.5,1242,0.45,35279.51
+North,Helsinki,Dick Johnson Is Dead,2025-Q2,83627.3,2626,0.48,25620.35
+North,Helsinki,Stellar Run,2025-Q2,147340.5,3443,0.8,21680.71
+North,Helsinki,Grown Ups,2025-Q2,26981.2,6067,0.46,48831.52
+North,Helsinki,Birth of the Dragon,2025-Q2,262013.1,5753,0.88,30790.68
+North,Helsinki,Paranoia,2025-Q2,292442.6,7224,0.89,39663.02
+North,Helsinki,Blue Horizon,2025-Q2,330188.8,7949,0.52,55646.8
+North,Helsinki,Je Suis Karl,2025-Q2,265140.9,4408,0.9,40172.71
+North,Helsinki,Dark Orbit,2025-Q2,24499.1,6069,0.76,52806.32
+North,Helsinki,The Father Who Moves Mountains,2025-Q2,471566.9,1422,0.65,24390.33
+South,Mumbai,Winter's Edge,2025-Q2,16603.9,5828,0.78,27129.0
+South,Mumbai,Last Kingdom,2025-Q2,244278.4,7879,0.62,49112.86
+South,Mumbai,Grown Ups,2025-Q2,109714.8,4608,0.9,36332.47
+South,Mumbai,The Stronghold,2025-Q2,536274.5,4505,0.93,540.21
+South,Mumbai,Mirage City,2025-Q2,181946.0,4881,0.53,19420.47
+South,Mumbai,Dark Orbit,2025-Q2,325921.8,1210,0.58,37537.97
+South,Mumbai,My Little Pony: A New Generation,2025-Q2,293360.6,1347,0.64,58484.62
+South,Mumbai,Minsara Kanavu,2025-Q2,503208.1,3214,0.56,33168.16
+South,Mumbai,Intrusion,2025-Q2,120897.0,4663,0.6,44652.1
+South,Mumbai,Dark Skies,2025-Q2,24535.7,340,0.91,55148.13
+South,Bangalore,The Starling,2025-Q2,353800.3,4783,0.44,49466.41
+South,Bangalore,The Lost Archive,2025-Q2,358236.5,7874,0.87,52110.45
+South,Bangalore,Dark Skies,2025-Q2,217042.1,860,0.69,26763.37
+South,Bangalore,Blue Horizon,2025-Q2,392489.4,6993,0.94,31772.14
+South,Bangalore,The Stronghold,2025-Q2,33232.9,7251,0.76,46545.14
+South,Bangalore,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q2,12574.1,5043,0.5,16551.3
+South,Bangalore,Neon Nights,2025-Q2,425363.5,1582,0.69,27108.74
+South,Bangalore,Winter's Edge,2025-Q2,502809.7,4124,0.59,28051.8
+South,Bangalore,Dick Johnson Is Dead,2025-Q2,39375.8,2008,0.75,46549.51
+South,Bangalore,Sankofa,2025-Q2,357893.9,247,0.47,43999.64
+South,Chennai,Crimson Tide,2025-Q2,301110.5,1500,0.71,58157.83
+South,Chennai,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,246885.1,5368,0.73,9379.47
+South,Chennai,Stellar Run,2025-Q2,116883.3,1960,0.87,24780.42
+South,Chennai,Harbor Lights,2025-Q2,134384.2,1075,0.75,1432.8
+South,Chennai,Confessions of an Invisible Girl,2025-Q2,109207.4,442,0.41,57157.42
+South,Chennai,My Little Pony: A New Generation,2025-Q2,386973.8,262,0.92,48836.98
+South,Chennai,Neon Nights,2025-Q2,473442.9,7511,0.61,42779.85
+South,Chennai,Minsara Kanavu,2025-Q2,91946.8,5848,0.84,27348.32
+South,Chennai,Ankahi Kahaniya,2025-Q2,151138.6,7843,0.84,38285.85
+South,Chennai,Phantom Signal,2025-Q2,596544.0,5812,0.84,29941.68
+East,Tokyo,The Final Frontier,2025-Q2,468413.9,4163,0.54,43361.49
+East,Tokyo,Sankofa,2025-Q2,330222.6,4138,0.83,22032.28
+East,Tokyo,Je Suis Karl,2025-Q2,189318.0,7798,0.6,15635.96
+East,Tokyo,Jeans,2025-Q2,437486.6,2399,0.61,26033.67
+East,Tokyo,Ankahi Kahaniya,2025-Q2,333894.1,4494,0.76,25420.57
+East,Tokyo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,557212.3,4311,0.51,44978.53
+East,Tokyo,The Stronghold,2025-Q2,167924.1,1724,0.83,33913.08
+East,Tokyo,Last Kingdom,2025-Q2,515128.3,5517,0.92,21513.84
+East,Tokyo,Mirage City,2025-Q2,332749.2,3614,0.75,51353.22
+East,Tokyo,Paranoia,2025-Q2,500953.7,1868,0.64,23802.4
+East,Seoul,Je Suis Karl,2025-Q2,288929.7,4396,0.66,55496.54
+East,Seoul,Birth of the Dragon,2025-Q2,541644.4,2481,0.53,46501.8
+East,Seoul,Confessions of an Invisible Girl,2025-Q2,393762.2,6419,0.84,33870.73
+East,Seoul,Dick Johnson Is Dead,2025-Q2,397563.5,5415,0.54,15009.38
+East,Seoul,Harbor Lights,2025-Q2,585484.1,3627,0.95,41585.27
+East,Seoul,Stellar Run,2025-Q2,521247.1,359,0.6,45907.96
+East,Seoul,Grown Ups,2025-Q2,476362.9,2714,0.84,21990.1
+East,Seoul,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,435231.3,4981,0.5,16513.83
+East,Seoul,Jeans,2025-Q2,283453.8,6103,0.85,3542.63
+East,Seoul,Dark Orbit,2025-Q2,126273.5,1510,0.9,45610.42
+East,Singapore,Neon Nights,2025-Q2,195692.0,5301,0.83,21048.9
+East,Singapore,Rising Storm,2025-Q2,381042.6,5716,0.4,33952.57
+East,Singapore,Paranoia,2025-Q2,26860.6,3554,0.48,33766.13
+East,Singapore,Dark Skies,2025-Q2,217186.8,3002,0.42,8392.99
+East,Singapore,The Lost Archive,2025-Q2,421349.1,139,0.56,20938.05
+East,Singapore,The Stronghold,2025-Q2,398180.8,7959,0.71,19043.29
+East,Singapore,Avvai Shanmughi,2025-Q2,212616.4,7347,0.44,54576.92
+East,Singapore,Dick Johnson Is Dead,2025-Q2,362008.8,6422,0.78,40503.97
+East,Singapore,Harbor Lights,2025-Q2,147198.8,1933,0.81,37416.21
+East,Singapore,The Starling,2025-Q2,501137.1,2808,0.5,47950.49
+West,New York,Blue Horizon,2025-Q2,246652.0,1612,0.89,49118.35
+West,New York,The Lost Archive,2025-Q2,97902.4,3656,0.86,23128.1
+West,New York,Crimson Tide,2025-Q2,118075.4,5570,0.59,41668.09
+West,New York,Dick Johnson Is Dead,2025-Q2,318907.8,4162,0.52,11950.11
+West,New York,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,431798.3,2967,0.59,20862.18
+West,New York,Last Kingdom,2025-Q2,57345.7,5276,0.82,58619.55
+West,New York,The Starling,2025-Q2,480929.9,6848,0.9,5308.89
+West,New York,Stellar Run,2025-Q2,146968.7,868,0.44,40100.95
+West,New York,Echo Valley,2025-Q2,554664.1,2918,0.86,19103.54
+West,New York,The Final Frontier,2025-Q2,413715.2,5741,0.65,2359.41
+West,Los Angeles,Minsara Kanavu,2025-Q2,155995.9,2149,0.61,59862.41
+West,Los Angeles,Echo Valley,2025-Q2,92834.4,811,0.77,49912.09
+West,Los Angeles,Ankahi Kahaniya,2025-Q2,230985.6,3566,0.8,45868.54
+West,Los Angeles,Last Kingdom,2025-Q2,450826.5,6334,0.63,53036.73
+West,Los Angeles,Sankofa,2025-Q2,112541.9,3575,0.42,15823.54
+West,Los Angeles,Grown Ups,2025-Q2,79931.7,6518,0.76,23839.17
+West,Los Angeles,Silver Lining,2025-Q2,18328.2,5190,0.91,25721.84
+West,Los Angeles,Mirage City,2025-Q2,148084.4,5043,0.86,14809.69
+West,Los Angeles,Dark Orbit,2025-Q2,476158.8,2024,0.91,36063.92
+West,Los Angeles,Blue Horizon,2025-Q2,570394.0,3670,0.81,56490.98
+West,Chicago,Je Suis Karl,2025-Q2,551434.3,1124,0.9,42381.98
+West,Chicago,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,257076.1,1964,0.77,6447.51
+West,Chicago,Rising Storm,2025-Q2,112213.6,6330,0.52,47007.85
+West,Chicago,Birth of the Dragon,2025-Q2,498392.9,4450,0.91,32070.26
+West,Chicago,Avvai Shanmughi,2025-Q2,32702.2,4213,0.59,56177.72
+West,Chicago,Jaws,2025-Q2,397966.7,5426,0.48,9142.36
+West,Chicago,Minsara Kanavu,2025-Q2,368606.0,2084,0.62,22292.93
+West,Chicago,The Starling,2025-Q2,516822.4,1285,0.7,47233.28
+West,Chicago,Sankofa,2025-Q2,150152.4,2117,0.54,28547.15
+West,Chicago,Harbor Lights,2025-Q2,462594.1,3717,0.61,11495.92
+Central,Dubai,Harbor Lights,2025-Q2,124508.7,796,0.69,42581.25
+Central,Dubai,The Lost Archive,2025-Q2,391669.1,2137,0.64,37094.7
+Central,Dubai,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q2,142764.1,6617,0.45,2769.02
+Central,Dubai,The Starling,2025-Q2,395372.6,1384,0.77,35322.72
+Central,Dubai,The Father Who Moves Mountains,2025-Q2,295350.0,5655,0.75,19581.25
+Central,Dubai,Stellar Run,2025-Q2,250720.1,5697,0.72,56949.06
+Central,Dubai,Avvai Shanmughi,2025-Q2,562315.3,5055,0.47,54243.37
+Central,Dubai,Crimson Tide,2025-Q2,576367.3,6726,0.44,27388.91
+Central,Dubai,Confessions of an Invisible Girl,2025-Q2,515767.5,4271,0.46,25927.96
+Central,Dubai,Echo Valley,2025-Q2,414331.9,783,0.81,44003.68
+Central,Istanbul,The Father Who Moves Mountains,2025-Q2,540936.6,6545,0.58,13460.96
+Central,Istanbul,Dark Orbit,2025-Q2,281700.6,6473,0.67,46486.13
+Central,Istanbul,Crimson Tide,2025-Q2,221801.1,4727,0.68,27347.64
+Central,Istanbul,Winter's Edge,2025-Q2,10577.5,5371,0.56,51101.34
+Central,Istanbul,Silver Lining,2025-Q2,446886.2,6985,0.8,22703.03
+Central,Istanbul,The Starling,2025-Q2,125933.1,2183,0.55,3541.55
+Central,Istanbul,Sankofa,2025-Q2,487230.1,1554,0.4,46678.77
+Central,Istanbul,The Lost Archive,2025-Q2,232597.4,6710,0.69,33847.45
+Central,Istanbul,Neon Nights,2025-Q2,337421.4,380,0.89,44814.18
+Central,Istanbul,Paranoia,2025-Q2,192710.4,2936,0.88,10621.01
+Central,Cairo,Confessions of an Invisible Girl,2025-Q2,38039.2,169,0.73,43270.18
+Central,Cairo,The Stronghold,2025-Q2,131372.1,3443,0.78,27824.67
+Central,Cairo,Jeans,2025-Q2,215311.6,5223,0.44,42803.51
+Central,Cairo,Dark Skies,2025-Q2,96255.4,6561,0.63,30546.82
+Central,Cairo,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q2,36345.6,7379,0.53,33192.9
+Central,Cairo,Neon Nights,2025-Q2,87975.9,1513,0.44,52345.18
+Central,Cairo,Phantom Signal,2025-Q2,195007.5,2096,0.53,22830.17
+Central,Cairo,The Lost Archive,2025-Q2,69324.5,2643,0.49,673.86
+Central,Cairo,Jaws,2025-Q2,148662.6,5486,0.7,22018.89
+Central,Cairo,Ankahi Kahaniya,2025-Q2,149267.1,358,0.82,44543.81
+North,Oslo,Harbor Lights,2025-Q3,343550.8,5568,0.77,39086.51
+North,Oslo,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,423834.1,2111,0.81,36213.84
+North,Oslo,The Lost Archive,2025-Q3,284855.4,4280,0.73,18722.26
+North,Oslo,Minsara Kanavu,2025-Q3,296794.2,4049,0.5,3043.13
+North,Oslo,The Stronghold,2025-Q3,218617.0,761,0.54,43177.65
+North,Oslo,Mirage City,2025-Q3,470520.6,3982,0.9,27676.74
+North,Oslo,The Father Who Moves Mountains,2025-Q3,265883.9,2303,0.71,52346.01
+North,Oslo,Stellar Run,2025-Q3,26274.9,5459,0.77,50358.02
+North,Oslo,Ankahi Kahaniya,2025-Q3,199178.2,1577,0.52,881.98
+North,Oslo,Sankofa,2025-Q3,229075.5,6364,0.46,46974.3
+North,Stockholm,The Final Frontier,2025-Q3,93643.2,3339,0.59,23674.38
+North,Stockholm,My Little Pony: A New Generation,2025-Q3,77781.4,1624,0.65,30161.72
+North,Stockholm,Je Suis Karl,2025-Q3,149433.2,3754,0.8,48747.43
+North,Stockholm,Avvai Shanmughi,2025-Q3,415978.2,5635,0.68,25208.78
+North,Stockholm,Echo Valley,2025-Q3,93406.2,3586,0.53,21585.34
+North,Stockholm,Paranoia,2025-Q3,72865.5,6179,0.62,49836.28
+North,Stockholm,Last Kingdom,2025-Q3,554963.3,3709,0.7,56427.36
+North,Stockholm,Mirage City,2025-Q3,229630.6,4150,0.51,6357.51
+North,Stockholm,The Stronghold,2025-Q3,331237.7,7080,0.69,44972.66
+North,Stockholm,Dick Johnson Is Dead,2025-Q3,495666.9,481,0.49,8817.5
+North,Helsinki,The Starling,2025-Q3,260315.1,6059,0.52,18162.98
+North,Helsinki,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,411186.3,686,0.84,25257.71
+North,Helsinki,Harbor Lights,2025-Q3,67089.8,2542,0.5,40421.07
+North,Helsinki,Je Suis Karl,2025-Q3,231010.0,2520,0.68,7205.33
+North,Helsinki,Crimson Tide,2025-Q3,244101.5,4457,0.81,12828.93
+North,Helsinki,Jeans,2025-Q3,554618.3,2245,0.66,50582.28
+North,Helsinki,Neon Nights,2025-Q3,239095.9,3189,0.7,34139.91
+North,Helsinki,Dark Skies,2025-Q3,359961.6,7492,0.67,1799.93
+North,Helsinki,The Final Frontier,2025-Q3,232668.6,4677,0.83,14263.93
+North,Helsinki,Dick Johnson Is Dead,2025-Q3,26701.0,4534,0.52,41133.23
+South,Mumbai,Dark Orbit,2025-Q3,469884.0,5891,0.94,35834.62
+South,Mumbai,Jeans,2025-Q3,400179.2,1473,0.67,3930.24
+South,Mumbai,Jaws,2025-Q3,204600.0,1927,0.55,3099.02
+South,Mumbai,The Final Frontier,2025-Q3,165891.2,3189,0.81,41292.68
+South,Mumbai,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,351615.6,771,0.7,10635.16
+South,Mumbai,Last Kingdom,2025-Q3,313002.2,2400,0.66,31356.34
+South,Mumbai,The Starling,2025-Q3,22049.1,4494,0.46,41943.14
+South,Mumbai,The Father Who Moves Mountains,2025-Q3,465879.3,7849,0.62,3678.98
+South,Mumbai,Avvai Shanmughi,2025-Q3,498156.2,2841,0.77,31786.31
+South,Mumbai,Harbor Lights,2025-Q3,440168.0,6952,0.8,39542.05
+South,Bangalore,Ankahi Kahaniya,2025-Q3,83300.9,2386,0.7,24848.53
+South,Bangalore,The Starling,2025-Q3,208093.5,3520,0.6,44397.28
+South,Bangalore,Dark Skies,2025-Q3,336206.2,4478,0.76,59696.6
+South,Bangalore,Silver Lining,2025-Q3,535917.6,177,0.64,29804.7
+South,Bangalore,Winter's Edge,2025-Q3,382787.1,5709,0.87,51982.81
+South,Bangalore,The Final Frontier,2025-Q3,194896.0,7157,0.53,59592.63
+South,Bangalore,Grown Ups,2025-Q3,128068.6,871,0.49,27929.4
+South,Bangalore,Harbor Lights,2025-Q3,573499.6,6922,0.59,49169.58
+South,Bangalore,The Father Who Moves Mountains,2025-Q3,449459.4,6270,0.63,25403.87
+South,Bangalore,Dick Johnson Is Dead,2025-Q3,190002.1,3462,0.52,54874.43
+South,Chennai,The Stronghold,2025-Q3,352649.6,4894,0.43,32058.88
+South,Chennai,Harbor Lights,2025-Q3,569178.1,5815,0.43,45934.78
+South,Chennai,The Final Frontier,2025-Q3,389371.1,206,0.67,25848.09
+South,Chennai,Mirage City,2025-Q3,301313.5,1644,0.84,41888.64
+South,Chennai,My Little Pony: A New Generation,2025-Q3,77802.4,1917,0.84,41617.66
+South,Chennai,Grown Ups,2025-Q3,258739.1,1087,0.84,14903.58
+South,Chennai,Intrusion,2025-Q3,287421.8,7153,0.69,16431.77
+South,Chennai,Dark Skies,2025-Q3,31612.3,7045,0.42,41510.2
+South,Chennai,The Starling,2025-Q3,502528.4,2087,0.66,10218.86
+South,Chennai,Confessions of an Invisible Girl,2025-Q3,220781.7,2523,0.6,46703.23
+East,Tokyo,The Stronghold,2025-Q3,551070.9,4590,0.82,7857.91
+East,Tokyo,Dark Orbit,2025-Q3,294279.2,2381,0.95,13460.72
+East,Tokyo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q3,382949.4,1291,0.9,46743.14
+East,Tokyo,Minsara Kanavu,2025-Q3,536265.9,967,0.64,16703.58
+East,Tokyo,Dark Skies,2025-Q3,501839.8,5839,0.81,19698.94
+East,Tokyo,The Father Who Moves Mountains,2025-Q3,529544.9,646,0.75,50661.04
+East,Tokyo,Grown Ups,2025-Q3,542904.8,6911,0.54,29865.1
+East,Tokyo,The Lost Archive,2025-Q3,258373.4,1570,0.9,6824.47
+East,Tokyo,Jaws,2025-Q3,424896.9,1592,0.79,24646.06
+East,Tokyo,Je Suis Karl,2025-Q3,32020.4,5803,0.7,14379.62
+East,Seoul,My Little Pony: A New Generation,2025-Q3,197820.0,868,0.57,13448.87
+East,Seoul,Intrusion,2025-Q3,41105.5,2085,0.4,46422.84
+East,Seoul,Jaws,2025-Q3,287473.1,3376,0.69,44344.26
+East,Seoul,Blue Horizon,2025-Q3,467350.3,5193,0.43,35435.03
+East,Seoul,Minsara Kanavu,2025-Q3,420500.5,2605,0.6,47401.47
+East,Seoul,The Father Who Moves Mountains,2025-Q3,327643.8,1210,0.75,54922.65
+East,Seoul,Avvai Shanmughi,2025-Q3,28945.2,6237,0.74,52041.5
+East,Seoul,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,424544.7,3875,0.67,46695.79
+East,Seoul,Sankofa,2025-Q3,121027.7,5431,0.92,55580.89
+East,Seoul,Echo Valley,2025-Q3,256936.9,4263,0.44,52702.02
+East,Singapore,Mirage City,2025-Q3,292504.9,1954,0.79,58489.95
+East,Singapore,Ankahi Kahaniya,2025-Q3,426744.9,1576,0.57,39202.15
+East,Singapore,Neon Nights,2025-Q3,391340.2,6120,0.87,16587.18
+East,Singapore,Grown Ups,2025-Q3,416123.8,4402,0.88,50449.41
+East,Singapore,Dark Orbit,2025-Q3,145425.1,6730,0.43,40585.71
+East,Singapore,Stellar Run,2025-Q3,154923.8,6108,0.53,19103.94
+East,Singapore,Dick Johnson Is Dead,2025-Q3,542054.6,871,0.89,6442.74
+East,Singapore,Intrusion,2025-Q3,476632.6,2477,0.55,18143.59
+East,Singapore,Harbor Lights,2025-Q3,583494.2,7248,0.87,9740.43
+East,Singapore,Silver Lining,2025-Q3,591297.4,352,0.49,17130.88
+West,New York,Avvai Shanmughi,2025-Q3,444144.8,3588,0.76,58802.55
+West,New York,Stellar Run,2025-Q3,255751.8,2344,0.4,48261.04
+West,New York,Je Suis Karl,2025-Q3,178154.2,2630,0.67,11948.13
+West,New York,Dark Skies,2025-Q3,328099.5,5889,0.44,11954.96
+West,New York,Mirage City,2025-Q3,32969.5,2648,0.86,8486.99
+West,New York,Last Kingdom,2025-Q3,504874.7,864,0.78,37603.56
+West,New York,Intrusion,2025-Q3,310056.8,6855,0.5,51674.64
+West,New York,Rising Storm,2025-Q3,403764.4,6832,0.83,2116.1
+West,New York,Silver Lining,2025-Q3,127784.1,3240,0.58,16396.48
+West,New York,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q3,452115.9,4963,0.94,2596.34
+West,Los Angeles,Last Kingdom,2025-Q3,363969.5,6451,0.49,21144.96
+West,Los Angeles,Dick Johnson Is Dead,2025-Q3,146710.6,3243,0.45,15377.88
+West,Los Angeles,Ankahi Kahaniya,2025-Q3,502511.0,5220,0.85,47054.92
+West,Los Angeles,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,123206.0,5644,0.41,37456.13
+West,Los Angeles,Intrusion,2025-Q3,145992.2,6604,0.57,17186.34
+West,Los Angeles,Neon Nights,2025-Q3,382246.4,1318,0.56,23023.53
+West,Los Angeles,Mirage City,2025-Q3,407275.1,4297,0.81,16574.45
+West,Los Angeles,The Starling,2025-Q3,122876.1,6702,0.56,31284.84
+West,Los Angeles,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q3,366659.7,7901,0.53,12916.87
+West,Los Angeles,Dark Skies,2025-Q3,228846.9,7792,0.93,31845.2
+West,Chicago,Grown Ups,2025-Q3,177724.5,6059,0.71,23331.28
+West,Chicago,My Little Pony: A New Generation,2025-Q3,375931.1,1194,0.7,20939.76
+West,Chicago,Rising Storm,2025-Q3,275362.4,1772,0.59,50055.4
+West,Chicago,Jaws,2025-Q3,350794.5,2945,0.49,45667.54
+West,Chicago,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,340071.0,7500,0.91,48514.16
+West,Chicago,Jeans,2025-Q3,593330.8,5087,0.55,59137.46
+West,Chicago,Last Kingdom,2025-Q3,292966.5,5273,0.88,15299.95
+West,Chicago,Paranoia,2025-Q3,261882.8,7508,0.73,57629.87
+West,Chicago,Crimson Tide,2025-Q3,177193.7,1816,0.58,6219.5
+West,Chicago,The Final Frontier,2025-Q3,518513.4,3416,0.58,15887.55
+Central,Dubai,The Lost Archive,2025-Q3,171641.5,4609,0.68,27592.09
+Central,Dubai,Birth of the Dragon,2025-Q3,561391.3,2433,0.81,36825.98
+Central,Dubai,Neon Nights,2025-Q3,247159.4,3190,0.68,26301.48
+Central,Dubai,Stellar Run,2025-Q3,275484.6,4514,0.74,15863.74
+Central,Dubai,Phantom Signal,2025-Q3,19676.7,5840,0.46,42166.66
+Central,Dubai,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q3,514530.7,282,0.88,52058.94
+Central,Dubai,The Starling,2025-Q3,265605.9,521,0.45,16021.3
+Central,Dubai,Jeans,2025-Q3,269785.7,772,0.44,57820.75
+Central,Dubai,Dark Skies,2025-Q3,136786.8,4389,0.54,57108.17
+Central,Dubai,Winter's Edge,2025-Q3,432336.3,7844,0.65,20534.98
+Central,Istanbul,Ankahi Kahaniya,2025-Q3,330263.5,4238,0.63,1690.17
+Central,Istanbul,Intrusion,2025-Q3,66593.9,4125,0.76,16015.19
+Central,Istanbul,Minsara Kanavu,2025-Q3,533222.9,5695,0.5,17403.15
+Central,Istanbul,Grown Ups,2025-Q3,132417.4,3114,0.74,38559.84
+Central,Istanbul,Avvai Shanmughi,2025-Q3,266613.0,4336,0.58,53035.13
+Central,Istanbul,Winter's Edge,2025-Q3,595394.0,2379,0.58,54605.2
+Central,Istanbul,Stellar Run,2025-Q3,390970.7,6502,0.62,51483.89
+Central,Istanbul,Confessions of an Invisible Girl,2025-Q3,350202.3,7869,0.53,20917.76
+Central,Istanbul,Paranoia,2025-Q3,36881.1,6856,0.79,54121.45
+Central,Istanbul,Rising Storm,2025-Q3,541732.2,6615,0.71,4790.01
+Central,Cairo,Jaws,2025-Q3,42861.2,7163,0.78,14822.69
+Central,Cairo,Winter's Edge,2025-Q3,200998.4,5881,0.95,25956.04
+Central,Cairo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q3,111733.5,3183,0.88,18400.84
+Central,Cairo,Dark Skies,2025-Q3,595702.7,684,0.75,45755.17
+Central,Cairo,Silver Lining,2025-Q3,157127.2,5398,0.56,15047.38
+Central,Cairo,Crimson Tide,2025-Q3,451706.5,7140,0.71,3580.35
+Central,Cairo,Phantom Signal,2025-Q3,237363.9,2746,0.68,13633.72
+Central,Cairo,Grown Ups,2025-Q3,434853.3,792,0.41,5228.25
+Central,Cairo,Harbor Lights,2025-Q3,460835.0,3698,0.7,22953.66
+Central,Cairo,Birth of the Dragon,2025-Q3,206743.5,6706,0.74,12899.58
+North,Oslo,The Starling,2025-Q4,216664.1,3180,0.82,3401.97
+North,Oslo,The Stronghold,2025-Q4,137578.6,2783,0.63,3570.53
+North,Oslo,Avvai Shanmughi,2025-Q4,124638.8,3560,0.52,18590.65
+North,Oslo,Crimson Tide,2025-Q4,175942.8,5251,0.73,24476.5
+North,Oslo,Paranoia,2025-Q4,470721.0,3192,0.81,43264.48
+North,Oslo,Grown Ups,2025-Q4,147251.2,4500,0.44,57798.74
+North,Oslo,Dark Skies,2025-Q4,125744.0,3137,0.64,25589.9
+North,Oslo,Intrusion,2025-Q4,291298.9,6999,0.81,3345.12
+North,Oslo,Dick Johnson Is Dead,2025-Q4,530849.2,6966,0.47,27066.79
+North,Oslo,Dark Orbit,2025-Q4,175164.9,3027,0.65,53225.45
+North,Stockholm,Last Kingdom,2025-Q4,34272.7,5131,0.9,33478.95
+North,Stockholm,Minsara Kanavu,2025-Q4,533020.1,4100,0.85,16265.48
+North,Stockholm,Echo Valley,2025-Q4,302519.2,6435,0.87,36989.91
+North,Stockholm,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q4,413641.6,5425,0.53,17472.95
+North,Stockholm,The Lost Archive,2025-Q4,306436.9,2838,0.48,21571.43
+North,Stockholm,Neon Nights,2025-Q4,122252.3,6243,0.65,15598.12
+North,Stockholm,Dark Orbit,2025-Q4,497238.1,325,0.93,47148.49
+North,Stockholm,Sankofa,2025-Q4,290956.9,3915,0.63,28781.53
+North,Stockholm,Winter's Edge,2025-Q4,24763.1,7244,0.48,57518.71
+North,Stockholm,Intrusion,2025-Q4,293210.9,3927,0.6,18833.46
+North,Helsinki,Dark Skies,2025-Q4,132541.3,6464,0.51,37508.42
+North,Helsinki,Intrusion,2025-Q4,44331.4,364,0.75,3267.42
+North,Helsinki,Neon Nights,2025-Q4,512152.4,6149,0.42,24837.95
+North,Helsinki,Je Suis Karl,2025-Q4,245072.5,6047,0.68,14909.01
+North,Helsinki,Rising Storm,2025-Q4,181397.8,2257,0.59,31757.36
+North,Helsinki,Ankahi Kahaniya,2025-Q4,575568.2,2832,0.76,25648.65
+North,Helsinki,Winter's Edge,2025-Q4,155141.1,7913,0.5,12416.95
+North,Helsinki,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q4,409332.1,7812,0.63,59039.27
+North,Helsinki,Dick Johnson Is Dead,2025-Q4,382465.7,7599,0.9,45880.15
+North,Helsinki,Grown Ups,2025-Q4,518403.6,401,0.54,2219.74
+South,Mumbai,The Final Frontier,2025-Q4,496438.4,737,0.44,41521.38
+South,Mumbai,Harbor Lights,2025-Q4,362733.9,4750,0.73,24246.58
+South,Mumbai,Silver Lining,2025-Q4,195471.3,758,0.45,6557.24
+South,Mumbai,Dick Johnson Is Dead,2025-Q4,533171.6,4215,0.52,57718.87
+South,Mumbai,Minsara Kanavu,2025-Q4,474657.7,2366,0.62,5051.8
+South,Mumbai,Crimson Tide,2025-Q4,440798.1,3953,0.65,55437.35
+South,Mumbai,The Starling,2025-Q4,311328.8,6359,0.76,30911.74
+South,Mumbai,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q4,404668.5,2399,0.8,44118.12
+South,Mumbai,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q4,252849.2,5598,0.76,47027.42
+South,Mumbai,Last Kingdom,2025-Q4,236205.9,7353,0.48,37039.55
+South,Bangalore,Avvai Shanmughi,2025-Q4,388723.3,655,0.55,10262.24
+South,Bangalore,Echo Valley,2025-Q4,147275.6,1996,0.4,11238.6
+South,Bangalore,Jaws,2025-Q4,425579.3,4166,0.63,17503.47
+South,Bangalore,Jeans,2025-Q4,20236.0,2379,0.86,40984.34
+South,Bangalore,Winter's Edge,2025-Q4,377653.6,3559,0.5,9756.18
+South,Bangalore,Je Suis Karl,2025-Q4,159492.3,3004,0.44,52602.4
+South,Bangalore,The Starling,2025-Q4,323841.1,3180,0.42,29330.93
+South,Bangalore,Last Kingdom,2025-Q4,276129.7,2095,0.52,35651.46
+South,Bangalore,Stellar Run,2025-Q4,63270.3,3817,0.8,30270.39
+South,Bangalore,My Little Pony: A New Generation,2025-Q4,108919.2,3829,0.56,18495.51
+South,Chennai,Echo Valley,2025-Q4,525519.2,1463,0.9,13942.84
+South,Chennai,Stellar Run,2025-Q4,307683.5,5384,0.52,21762.25
+South,Chennai,Neon Nights,2025-Q4,58431.2,7602,0.81,42131.04
+South,Chennai,Confessions of an Invisible Girl,2025-Q4,517046.9,3488,0.57,52090.31
+South,Chennai,Je Suis Karl,2025-Q4,303171.3,2577,0.45,5865.27
+South,Chennai,Jaws,2025-Q4,130097.9,3102,0.44,40621.8
+South,Chennai,Crimson Tide,2025-Q4,15111.0,3010,0.68,12137.93
+South,Chennai,Silver Lining,2025-Q4,541414.2,3527,0.82,32303.45
+South,Chennai,Birth of the Dragon,2025-Q4,56335.5,1820,0.92,56172.07
+South,Chennai,Avvai Shanmughi,2025-Q4,467733.9,3087,0.75,41779.1
+East,Tokyo,The Father Who Moves Mountains,2025-Q4,478255.4,722,0.9,58281.97
+East,Tokyo,Confessions of an Invisible Girl,2025-Q4,336860.3,3172,0.58,48555.24
+East,Tokyo,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q4,505306.9,7188,0.46,27912.57
+East,Tokyo,Silver Lining,2025-Q4,457160.1,1556,0.52,12729.27
+East,Tokyo,Jeans,2025-Q4,513750.6,4913,0.52,32183.36
+East,Tokyo,The Starling,2025-Q4,573210.4,851,0.7,43130.37
+East,Tokyo,My Little Pony: A New Generation,2025-Q4,34220.9,554,0.95,57650.78
+East,Tokyo,Crimson Tide,2025-Q4,48368.1,2215,0.88,11750.18
+East,Tokyo,Intrusion,2025-Q4,85009.8,5070,0.94,10796.44
+East,Tokyo,The Stronghold,2025-Q4,549689.5,942,0.78,52639.94
+East,Seoul,Paranoia,2025-Q4,543715.6,2518,0.45,5685.78
+East,Seoul,Dick Johnson Is Dead,2025-Q4,437000.2,821,0.51,5488.92
+East,Seoul,Silver Lining,2025-Q4,530765.8,3019,0.6,51014.01
+East,Seoul,Blue Horizon,2025-Q4,571839.2,2727,0.52,11793.65
+East,Seoul,The Final Frontier,2025-Q4,486995.7,2531,0.41,26736.59
+East,Seoul,Rising Storm,2025-Q4,61891.0,5934,0.45,3323.43
+East,Seoul,My Little Pony: A New Generation,2025-Q4,599891.7,6165,0.62,37027.73
+East,Seoul,Winter's Edge,2025-Q4,188816.7,6391,0.57,27668.8
+East,Seoul,Harbor Lights,2025-Q4,447439.2,5899,0.64,45084.09
+East,Seoul,Birth of the Dragon,2025-Q4,190201.8,7360,0.57,47093.58
+East,Singapore,Last Kingdom,2025-Q4,100093.5,3515,0.57,5381.03
+East,Singapore,Blue Horizon,2025-Q4,374693.0,6110,0.84,1863.02
+East,Singapore,Crimson Tide,2025-Q4,583302.4,7617,0.78,23255.49
+East,Singapore,Minsara Kanavu,2025-Q4,388022.7,5752,0.74,1527.53
+East,Singapore,Ankahi Kahaniya,2025-Q4,538151.2,7376,0.86,42288.04
+East,Singapore,Je Suis Karl,2025-Q4,320597.4,1184,0.49,15378.49
+East,Singapore,Grown Ups,2025-Q4,482036.5,1111,0.62,8913.02
+East,Singapore,Paranoia,2025-Q4,496293.8,7678,0.47,41377.34
+East,Singapore,Echo Valley,2025-Q4,383363.6,4189,0.6,38463.18
+East,Singapore,Winter's Edge,2025-Q4,110594.5,6507,0.61,37287.85
+West,New York,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q4,60946.7,131,0.41,34337.83
+West,New York,Crimson Tide,2025-Q4,92099.9,6650,0.75,55387.78
+West,New York,Phantom Signal,2025-Q4,568838.5,2981,0.67,45723.77
+West,New York,Neon Nights,2025-Q4,335248.2,3834,0.43,12473.59
+West,New York,Confessions of an Invisible Girl,2025-Q4,96002.7,481,0.93,39829.99
+West,New York,Echo Valley,2025-Q4,548592.7,2289,0.71,37133.23
+West,New York,Dick Johnson Is Dead,2025-Q4,443659.5,2181,0.84,33611.82
+West,New York,The Starling,2025-Q4,564172.6,1285,0.74,5758.15
+West,New York,Jeans,2025-Q4,207459.5,7480,0.79,3159.41
+West,New York,Intrusion,2025-Q4,409365.9,4292,0.89,48269.08
+West,Los Angeles,Phantom Signal,2025-Q4,112366.5,7762,0.86,16097.77
+West,Los Angeles,Crimson Tide,2025-Q4,256920.3,3037,0.87,53241.33
+West,Los Angeles,Jeans,2025-Q4,165459.1,7920,0.84,41709.11
+West,Los Angeles,Jaws,2025-Q4,368122.4,2894,0.42,34984.52
+West,Los Angeles,The Stronghold,2025-Q4,161733.6,783,0.75,58337.12
+West,Los Angeles,Neon Nights,2025-Q4,354810.0,2807,0.64,57794.74
+West,Los Angeles,The Father Who Moves Mountains,2025-Q4,163155.3,388,0.45,23641.26
+West,Los Angeles,Birth of the Dragon,2025-Q4,379932.9,3003,0.64,8504.96
+West,Los Angeles,Sankofa,2025-Q4,313745.8,4131,0.69,55641.39
+West,Los Angeles,Stellar Run,2025-Q4,271250.5,7309,0.61,25821.29
+West,Chicago,Dick Johnson Is Dead,2025-Q4,507574.1,288,0.89,59541.26
+West,Chicago,Harbor Lights,2025-Q4,481625.0,7211,0.51,23240.34
+West,Chicago,Mirage City,2025-Q4,554041.9,4048,0.86,16987.11
+West,Chicago,Go! Go! Cory Carson: Chrissy Takes the Wheel,2025-Q4,454409.4,7493,0.89,45343.09
+West,Chicago,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q4,373085.2,1855,0.68,12835.21
+West,Chicago,Phantom Signal,2025-Q4,81539.4,6006,0.8,51481.85
+West,Chicago,The Stronghold,2025-Q4,317422.7,6634,0.94,19697.8
+West,Chicago,Confessions of an Invisible Girl,2025-Q4,155076.2,1480,0.92,34387.5
+West,Chicago,Birth of the Dragon,2025-Q4,191743.4,4926,0.79,7761.1
+West,Chicago,Minsara Kanavu,2025-Q4,281164.9,4715,0.8,57443.47
+Central,Dubai,Dark Orbit,2025-Q4,251215.2,1861,0.75,49294.37
+Central,Dubai,Je Suis Karl,2025-Q4,205514.9,1910,0.47,43944.15
+Central,Dubai,Dark Skies,2025-Q4,301120.4,6717,0.71,51939.62
+Central,Dubai,Echo Valley,2025-Q4,457892.1,3409,0.85,31958.87
+Central,Dubai,Sankofa,2025-Q4,464431.4,6937,0.84,23109.87
+Central,Dubai,The Lost Archive,2025-Q4,399889.4,4957,0.89,22369.82
+Central,Dubai,The Starling,2025-Q4,401484.4,5526,0.69,11541.49
+Central,Dubai,Last Kingdom,2025-Q4,532684.6,4405,0.9,43155.8
+Central,Dubai,Rising Storm,2025-Q4,541631.4,6327,0.82,31853.07
+Central,Dubai,Avvai Shanmughi,2025-Q4,101014.8,3159,0.52,26488.98
+Central,Istanbul,The Stronghold,2025-Q4,296125.5,3454,0.75,30391.72
+Central,Istanbul,Jaws,2025-Q4,370379.0,3370,0.55,48201.75
+Central,Istanbul,Europe's Most Dangerous Man: Otto Skorzeny in Spain,2025-Q4,139098.4,2302,0.8,34684.66
+Central,Istanbul,Grown Ups,2025-Q4,500261.0,3990,0.58,5221.29
+Central,Istanbul,Sankofa,2025-Q4,220874.4,1743,0.44,28915.77
+Central,Istanbul,Avvai Shanmughi,2025-Q4,539361.6,5700,0.83,20120.31
+Central,Istanbul,Crimson Tide,2025-Q4,380819.9,7667,0.68,37547.82
+Central,Istanbul,Birth of the Dragon,2025-Q4,171977.4,5904,0.65,16947.83
+Central,Istanbul,Minsara Kanavu,2025-Q4,580511.1,627,0.79,17822.39
+Central,Istanbul,Mirage City,2025-Q4,320672.4,5702,0.89,55748.41
+Central,Cairo,Grown Ups,2025-Q4,375103.0,3576,0.54,13829.17
+Central,Cairo,Dark Skies,2025-Q4,371745.8,3013,0.83,4780.52
+Central,Cairo,Confessions of an Invisible Girl,2025-Q4,221332.4,5353,0.64,53259.87
+Central,Cairo,The Lost Archive,2025-Q4,370712.6,3709,0.69,25892.69
+Central,Cairo,Minsara Kanavu,2025-Q4,561865.5,165,0.9,3464.31
+Central,Cairo,Avvai Shanmughi,2025-Q4,573693.9,2975,0.81,49181.5
+Central,Cairo,The Stronghold,2025-Q4,46005.1,1003,0.62,11904.44
+Central,Cairo,Silver Lining,2025-Q4,32207.1,6314,0.81,34748.63
+Central,Cairo,Jeans,2025-Q4,394802.5,1371,0.49,17206.52
+Central,Cairo,Je Suis Karl,2025-Q4,84489.1,2400,0.82,47616.88

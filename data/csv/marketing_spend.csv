@@ -1,0 +1,495 @@
+title,channel,spend_amount,period,impressions,clicks
+Stellar Run,email,85045.63,2025-Q1,2466833,198093
+Stellar Run,search,231098.03,2025-Q1,1573799,61840
+Stellar Run,social_media,468933.95,2025-Q1,1662153,20312
+Stellar Run,social_media,853607.98,2025-Q2,74904,4540
+Stellar Run,search,227178.13,2025-Q2,2218189,211388
+Stellar Run,email,16862.58,2025-Q2,267406,13889
+Stellar Run,display,62943.49,2025-Q2,1711894,104759
+Stellar Run,email,15784.11,2025-Q3,2276763,46995
+Stellar Run,social_media,614467.4,2025-Q3,83614,9929
+Stellar Run,search,149003.25,2025-Q3,95923,4544
+Stellar Run,influencer,429351.13,2025-Q4,1045130,84767
+Stellar Run,social_media,582418.23,2025-Q4,147750,9594
+Phantom Signal,search,144263.81,2025-Q1,2969712,314238
+Phantom Signal,influencer,94833.68,2025-Q1,520239,38648
+Phantom Signal,email,164070.48,2025-Q1,832963,52435
+Phantom Signal,display,15206.71,2025-Q1,2664229,280679
+Phantom Signal,social_media,233938.97,2025-Q2,2824893,169653
+Phantom Signal,search,68158.45,2025-Q2,1196531,36930
+Phantom Signal,email,15741.96,2025-Q2,1248857,146971
+Phantom Signal,display,240847.85,2025-Q2,1230763,75793
+Phantom Signal,influencer,231803.57,2025-Q2,994259,68344
+Phantom Signal,social_media,159502.32,2025-Q3,556569,52024
+Phantom Signal,influencer,90225.89,2025-Q3,1519646,139777
+Phantom Signal,display,102543.54,2025-Q4,1753493,42130
+Phantom Signal,influencer,217404.18,2025-Q4,2554494,195508
+Phantom Signal,search,41604.97,2025-Q4,2119148,260544
+Rising Storm,display,98072.11,2025-Q1,1034544,128075
+Rising Storm,email,203846.32,2025-Q1,480121,54140
+Rising Storm,search,114673.01,2025-Q2,1292909,118678
+Rising Storm,display,216604.72,2025-Q2,697027,56259
+Rising Storm,email,225940.42,2025-Q2,1753327,5203
+Rising Storm,influencer,37115.05,2025-Q2,1531929,17485
+Rising Storm,social_media,94663.26,2025-Q2,1581616,8123
+Rising Storm,display,171819.34,2025-Q3,334590,29915
+Rising Storm,search,61447.87,2025-Q3,2712579,48273
+Rising Storm,email,89980.95,2025-Q4,1895651,150967
+Rising Storm,social_media,20150.4,2025-Q4,590849,24493
+Rising Storm,search,67636.71,2025-Q4,364796,14709
+Rising Storm,display,65097.26,2025-Q4,1419009,81633
+Rising Storm,influencer,113372.72,2025-Q4,1162951,15841
+Silver Lining,display,175127.17,2025-Q1,2010997,153967
+Silver Lining,influencer,18331.49,2025-Q1,1980365,33272
+Silver Lining,social_media,145304.03,2025-Q1,385342,43138
+Silver Lining,email,233439.44,2025-Q1,2722715,302769
+Silver Lining,search,135221.69,2025-Q1,1873378,195928
+Silver Lining,email,100144.1,2025-Q2,566131,31808
+Silver Lining,search,52728.03,2025-Q2,1401694,160193
+Silver Lining,influencer,126249.56,2025-Q2,2680672,294373
+Silver Lining,display,117701.49,2025-Q2,2344026,4625
+Silver Lining,email,248485.98,2025-Q3,2961119,251750
+Silver Lining,social_media,212653.42,2025-Q3,422043,36524
+Silver Lining,influencer,70013.01,2025-Q3,75078,2642
+Silver Lining,display,143097.18,2025-Q3,737624,4346
+Silver Lining,email,51465.16,2025-Q4,652538,80128
+Silver Lining,influencer,176157.72,2025-Q4,942134,104040
+Silver Lining,social_media,172240.03,2025-Q4,932201,75124
+Silver Lining,display,249581.42,2025-Q4,1748158,76784
+Harbor Lights,social_media,83929.2,2025-Q1,737302,52745
+Harbor Lights,search,234018.97,2025-Q1,1980173,99582
+Harbor Lights,display,156241.32,2025-Q1,2540323,98953
+Harbor Lights,influencer,68280.39,2025-Q1,1892541,125098
+Harbor Lights,influencer,181627.86,2025-Q2,1468294,171840
+Harbor Lights,search,39469.38,2025-Q2,623196,32234
+Harbor Lights,social_media,173072.58,2025-Q2,140979,4077
+Harbor Lights,social_media,60848.53,2025-Q3,784788,68667
+Harbor Lights,influencer,73330.57,2025-Q3,630072,28842
+Harbor Lights,search,240574.2,2025-Q3,2124687,38015
+Harbor Lights,email,153139.24,2025-Q3,2253147,79302
+Harbor Lights,email,205870.18,2025-Q4,402756,22512
+Harbor Lights,display,211471.58,2025-Q4,2944252,180357
+The Final Frontier,email,84283.83,2025-Q1,2434017,37406
+The Final Frontier,social_media,54426.18,2025-Q1,977516,17294
+The Final Frontier,search,12216.34,2025-Q1,1699819,207727
+The Final Frontier,search,50154.74,2025-Q2,1864019,164949
+The Final Frontier,influencer,182553.05,2025-Q2,681443,17814
+The Final Frontier,display,125726.97,2025-Q2,2010583,123385
+The Final Frontier,social_media,58494.26,2025-Q2,366385,28142
+The Final Frontier,email,232502.05,2025-Q3,2055474,8412
+The Final Frontier,influencer,231750.71,2025-Q3,1907866,1904
+The Final Frontier,influencer,63319.85,2025-Q4,194926,11979
+The Final Frontier,display,155518.86,2025-Q4,760790,82776
+The Final Frontier,social_media,128338.72,2025-Q4,1326056,36460
+Blue Horizon,social_media,198815.92,2025-Q1,1297852,15062
+Blue Horizon,influencer,37407.72,2025-Q1,2130622,142688
+Blue Horizon,display,9533.14,2025-Q1,2767924,228713
+Blue Horizon,search,120944.49,2025-Q1,1588570,133733
+Blue Horizon,email,38741.43,2025-Q2,2437291,2268
+Blue Horizon,influencer,211255.05,2025-Q2,1852292,218686
+Blue Horizon,search,44175.75,2025-Q2,217813,9031
+Blue Horizon,search,236736.74,2025-Q3,347685,19528
+Blue Horizon,display,145550.77,2025-Q3,1170993,83591
+Blue Horizon,email,150778.09,2025-Q3,2758215,308336
+Blue Horizon,influencer,56172.12,2025-Q3,2242440,115079
+Blue Horizon,social_media,245330.34,2025-Q3,2981746,300228
+Blue Horizon,influencer,151691.81,2025-Q4,2172678,225001
+Blue Horizon,display,13423.52,2025-Q4,2651394,166147
+Blue Horizon,email,204397.56,2025-Q4,109584,5621
+Blue Horizon,social_media,151317.77,2025-Q4,2825953,109809
+Blue Horizon,search,40016.0,2025-Q4,1798797,204181
+The Lost Archive,display,243963.12,2025-Q1,1129026,100878
+The Lost Archive,search,29850.17,2025-Q1,472971,11285
+The Lost Archive,social_media,181057.25,2025-Q1,2506703,280795
+The Lost Archive,influencer,202367.49,2025-Q1,363020,44288
+The Lost Archive,email,217420.87,2025-Q1,487589,22597
+The Lost Archive,influencer,8989.49,2025-Q2,2985187,39395
+The Lost Archive,display,49700.86,2025-Q2,1939240,115540
+The Lost Archive,social_media,186621.56,2025-Q2,735135,19018
+The Lost Archive,search,227856.67,2025-Q2,2531259,279425
+The Lost Archive,email,88546.95,2025-Q3,1983973,196696
+The Lost Archive,display,128483.85,2025-Q3,2112319,34666
+The Lost Archive,social_media,212574.96,2025-Q3,2152130,75104
+The Lost Archive,influencer,227703.39,2025-Q3,590091,27873
+The Lost Archive,influencer,21511.17,2025-Q4,2240083,26939
+The Lost Archive,email,99182.82,2025-Q4,373108,14102
+The Lost Archive,social_media,175987.43,2025-Q4,1121300,98013
+The Lost Archive,search,103199.44,2025-Q4,2010999,196977
+The Lost Archive,display,244987.75,2025-Q4,2564310,282270
+Echo Valley,email,131251.9,2025-Q1,2930222,233690
+Echo Valley,social_media,157765.37,2025-Q1,2429718,203805
+Echo Valley,display,52235.45,2025-Q1,2894873,284942
+Echo Valley,search,64153.26,2025-Q1,65549,8014
+Echo Valley,search,210655.62,2025-Q2,298948,10221
+Echo Valley,influencer,107209.31,2025-Q2,1661414,106061
+Echo Valley,email,37440.08,2025-Q2,465053,28439
+Echo Valley,social_media,84049.62,2025-Q2,1386539,118864
+Echo Valley,display,172674.04,2025-Q2,1754363,73819
+Echo Valley,email,189143.93,2025-Q3,1553548,130376
+Echo Valley,influencer,91255.94,2025-Q3,772040,34392
+Echo Valley,search,120213.77,2025-Q3,1201744,2499
+Echo Valley,display,6677.9,2025-Q3,1670741,138304
+Echo Valley,display,172406.87,2025-Q4,1549100,19688
+Echo Valley,email,106607.18,2025-Q4,1530170,67939
+Echo Valley,influencer,84648.55,2025-Q4,695529,23953
+Echo Valley,social_media,223484.66,2025-Q4,1318930,69160
+Echo Valley,search,21834.22,2025-Q4,2198709,248626
+Crimson Tide,social_media,134674.5,2025-Q1,2291480,224242
+Crimson Tide,search,9162.2,2025-Q1,1028871,110641
+Crimson Tide,influencer,82977.97,2025-Q1,2021121,228347
+Crimson Tide,display,15264.66,2025-Q1,316434,30663
+Crimson Tide,search,52526.54,2025-Q2,2659741,157394
+Crimson Tide,email,203423.13,2025-Q2,1173155,41339
+Crimson Tide,influencer,47472.83,2025-Q3,2959532,175474
+Crimson Tide,email,184173.89,2025-Q3,2317261,281323
+Crimson Tide,social_media,59718.01,2025-Q3,2603128,146740
+Crimson Tide,search,168653.49,2025-Q4,100818,10566
+Crimson Tide,display,193688.71,2025-Q4,2725840,35714
+Winter's Edge,influencer,210971.41,2025-Q1,1461951,41070
+Winter's Edge,email,141033.48,2025-Q1,509342,14745
+Winter's Edge,display,93831.74,2025-Q1,2605979,142715
+Winter's Edge,search,134023.56,2025-Q1,1303359,84302
+Winter's Edge,social_media,229021.38,2025-Q1,1996319,54646
+Winter's Edge,email,145394.04,2025-Q2,2139876,117796
+Winter's Edge,influencer,145394.11,2025-Q2,2888833,10876
+Winter's Edge,search,222626.43,2025-Q2,2501478,288575
+Winter's Edge,social_media,16063.56,2025-Q2,2809269,227595
+Winter's Edge,search,71214.89,2025-Q3,2779122,24223
+Winter's Edge,display,201350.54,2025-Q3,427584,24184
+Winter's Edge,display,211175.26,2025-Q4,123661,8678
+Winter's Edge,influencer,51846.4,2025-Q4,1359373,41256
+Winter's Edge,email,15012.91,2025-Q4,454201,37930
+Last Kingdom,email,93830.68,2025-Q1,1582177,30800
+Last Kingdom,influencer,165794.98,2025-Q1,329733,34651
+Last Kingdom,search,225341.74,2025-Q1,1171157,138017
+Last Kingdom,display,181800.46,2025-Q1,895012,1484
+Last Kingdom,social_media,127710.76,2025-Q1,591637,42943
+Last Kingdom,influencer,64949.68,2025-Q2,971837,23061
+Last Kingdom,display,242913.14,2025-Q2,1850878,9160
+Last Kingdom,social_media,185523.02,2025-Q2,1562442,190417
+Last Kingdom,search,139415.87,2025-Q2,2661837,147774
+Last Kingdom,email,45607.86,2025-Q2,1811565,220845
+Last Kingdom,display,176449.49,2025-Q3,1660399,106606
+Last Kingdom,search,49539.36,2025-Q3,2526130,113007
+Last Kingdom,social_media,166014.79,2025-Q3,2743756,46325
+Last Kingdom,email,96024.96,2025-Q3,2271433,48357
+Last Kingdom,influencer,119841.06,2025-Q3,2149889,79423
+Last Kingdom,search,142965.97,2025-Q4,1787781,164278
+Last Kingdom,email,139446.05,2025-Q4,148161,14775
+Last Kingdom,influencer,232323.51,2025-Q4,1038037,18500
+Last Kingdom,display,117741.21,2025-Q4,655706,29844
+Neon Nights,social_media,221556.35,2025-Q1,1006297,62803
+Neon Nights,email,171430.87,2025-Q1,2454212,30682
+Neon Nights,display,13798.33,2025-Q1,1846895,83931
+Neon Nights,influencer,206860.91,2025-Q1,2323953,235892
+Neon Nights,search,18629.06,2025-Q1,2366049,148098
+Neon Nights,email,158644.38,2025-Q2,1917178,111289
+Neon Nights,display,126617.9,2025-Q2,1366485,54090
+Neon Nights,influencer,150370.36,2025-Q2,374613,36693
+Neon Nights,search,137492.79,2025-Q2,2925156,21862
+Neon Nights,social_media,211533.27,2025-Q2,931353,61656
+Neon Nights,display,83499.37,2025-Q3,2577186,31449
+Neon Nights,social_media,141667.46,2025-Q3,1318776,97886
+Neon Nights,search,139871.04,2025-Q4,1909309,108747
+Neon Nights,email,55313.94,2025-Q4,145857,6097
+Neon Nights,display,240073.78,2025-Q4,2924137,252126
+Neon Nights,social_media,102655.45,2025-Q4,683078,32168
+Neon Nights,influencer,150451.07,2025-Q4,2907406,58029
+Mirage City,social_media,213182.53,2025-Q1,420003,36860
+Mirage City,influencer,220231.02,2025-Q1,2343541,53307
+Mirage City,display,42898.14,2025-Q1,2428474,284126
+Mirage City,social_media,229275.05,2025-Q2,1677490,188503
+Mirage City,search,191304.15,2025-Q2,2549765,20214
+Mirage City,influencer,218903.7,2025-Q2,247448,15899
+Mirage City,email,148603.41,2025-Q2,970423,64051
+Mirage City,display,195937.26,2025-Q2,2522457,291894
+Mirage City,email,72350.73,2025-Q3,2194886,229935
+Mirage City,search,167031.47,2025-Q3,2597921,239090
+Mirage City,social_media,230723.46,2025-Q3,1067581,83885
+Mirage City,email,85336.39,2025-Q4,2193425,217932
+Mirage City,influencer,216251.79,2025-Q4,994919,26035
+Dark Orbit,display,113353.5,2025-Q1,475979,51196
+Dark Orbit,email,46848.08,2025-Q1,2810691,115305
+Dark Orbit,social_media,29536.76,2025-Q1,1431056,90198
+Dark Orbit,search,159870.78,2025-Q1,2907770,167876
+Dark Orbit,social_media,156377.49,2025-Q2,2883260,117729
+Dark Orbit,display,131561.68,2025-Q2,1225062,70050
+Dark Orbit,influencer,15954.56,2025-Q2,1592012,134457
+Dark Orbit,email,136661.75,2025-Q2,489020,6003
+Dark Orbit,search,81284.01,2025-Q2,1344231,127719
+Dark Orbit,social_media,234371.21,2025-Q3,2768649,170189
+Dark Orbit,search,213453.78,2025-Q3,882368,53506
+Dark Orbit,social_media,187195.37,2025-Q4,2494353,230591
+Dark Orbit,display,220193.65,2025-Q4,1938838,162981
+Dark Orbit,email,114370.13,2025-Q4,274130,10314
+Dark Orbit,search,61869.59,2025-Q4,1318999,70994
+Dark Orbit,influencer,92504.32,2025-Q4,2199069,154051
+Dick Johnson Is Dead,email,11061.23,2025-Q1,1022669,108400
+Dick Johnson Is Dead,influencer,194177.04,2025-Q1,1842112,79161
+Dick Johnson Is Dead,display,204528.86,2025-Q1,328475,29311
+Dick Johnson Is Dead,search,58392.65,2025-Q1,615025,42851
+Dick Johnson Is Dead,search,91991.47,2025-Q2,2139683,192916
+Dick Johnson Is Dead,email,115986.47,2025-Q2,721788,79829
+Dick Johnson Is Dead,display,227952.95,2025-Q2,2857499,78228
+Dick Johnson Is Dead,social_media,167323.86,2025-Q2,1029459,14691
+Dick Johnson Is Dead,influencer,129715.77,2025-Q2,2396965,110249
+Dick Johnson Is Dead,search,86199.55,2025-Q3,1594715,185869
+Dick Johnson Is Dead,social_media,167162.75,2025-Q3,2744978,86814
+Dick Johnson Is Dead,search,27165.21,2025-Q4,1613839,19080
+Dick Johnson Is Dead,influencer,139747.6,2025-Q4,2679110,134320
+Dick Johnson Is Dead,email,136698.32,2025-Q4,2495606,227943
+My Little Pony: A New Generation,social_media,199703.74,2025-Q1,2025276,186865
+My Little Pony: A New Generation,email,67378.99,2025-Q1,791074,96309
+My Little Pony: A New Generation,influencer,34971.27,2025-Q1,2701594,301051
+My Little Pony: A New Generation,search,92400.46,2025-Q1,1238814,22582
+My Little Pony: A New Generation,display,230786.64,2025-Q1,2092861,71185
+My Little Pony: A New Generation,email,113278.6,2025-Q2,1462096,4441
+My Little Pony: A New Generation,social_media,237334.62,2025-Q2,744513,11082
+My Little Pony: A New Generation,email,163154.96,2025-Q3,1252419,26921
+My Little Pony: A New Generation,social_media,60842.01,2025-Q3,1307669,72685
+My Little Pony: A New Generation,email,175028.74,2025-Q4,1936381,76445
+My Little Pony: A New Generation,social_media,11328.46,2025-Q4,588806,17433
+My Little Pony: A New Generation,display,136323.56,2025-Q4,1260541,64272
+My Little Pony: A New Generation,search,242917.89,2025-Q4,170258,5966
+My Little Pony: A New Generation,influencer,109064.33,2025-Q4,2710928,183389
+Sankofa,influencer,178234.64,2025-Q1,835025,16279
+Sankofa,email,141668.41,2025-Q1,841077,55475
+Sankofa,email,106396.42,2025-Q2,376985,1098
+Sankofa,influencer,39189.71,2025-Q2,1364694,104325
+Sankofa,social_media,229241.3,2025-Q2,1215533,46585
+Sankofa,search,203770.39,2025-Q2,184518,5404
+Sankofa,display,199391.29,2025-Q2,586895,18516
+Sankofa,display,225412.87,2025-Q3,925589,96053
+Sankofa,social_media,112240.94,2025-Q3,1825770,146156
+Sankofa,email,59073.27,2025-Q3,1815701,128984
+Sankofa,influencer,216739.85,2025-Q4,2626427,38836
+Sankofa,social_media,85212.47,2025-Q4,2716171,160608
+Sankofa,email,72639.15,2025-Q4,1742843,32535
+Sankofa,search,72215.21,2025-Q4,162834,6380
+The Starling,search,117190.7,2025-Q1,1708649,95501
+The Starling,display,111398.84,2025-Q1,1338363,37729
+The Starling,social_media,217795.66,2025-Q1,1630808,14774
+The Starling,influencer,65351.56,2025-Q2,587880,50756
+The Starling,email,58455.39,2025-Q2,2430735,188015
+The Starling,influencer,124062.06,2025-Q3,1889922,99468
+The Starling,display,213447.93,2025-Q3,1151878,25295
+The Starling,search,78164.49,2025-Q3,238664,1862
+The Starling,social_media,58001.31,2025-Q3,2346688,170542
+The Starling,email,5607.63,2025-Q3,800363,98380
+The Starling,display,208777.15,2025-Q4,1187017,76641
+The Starling,social_media,231713.1,2025-Q4,1122978,105682
+The Starling,influencer,122872.23,2025-Q4,807356,70919
+The Starling,email,228098.22,2025-Q4,1009211,76060
+Je Suis Karl,display,189981.93,2025-Q1,1029056,9664
+Je Suis Karl,email,66909.28,2025-Q1,1564970,73349
+Je Suis Karl,social_media,147163.61,2025-Q2,880359,20505
+Je Suis Karl,display,92611.54,2025-Q2,530066,18086
+Je Suis Karl,email,175687.16,2025-Q2,2517761,241117
+Je Suis Karl,search,133865.87,2025-Q2,2006880,155572
+Je Suis Karl,influencer,206855.38,2025-Q2,946139,9326
+Je Suis Karl,social_media,147874.91,2025-Q3,1247116,64926
+Je Suis Karl,display,112999.0,2025-Q3,2778946,229299
+Je Suis Karl,influencer,109106.84,2025-Q3,2205170,102879
+Je Suis Karl,influencer,128001.87,2025-Q4,300712,7547
+Je Suis Karl,display,182156.23,2025-Q4,2297784,252880
+Confessions of an Invisible Girl,social_media,147662.79,2025-Q1,1411355,25143
+Confessions of an Invisible Girl,display,234888.09,2025-Q1,1099291,60989
+Confessions of an Invisible Girl,influencer,111117.87,2025-Q1,2293368,217296
+Confessions of an Invisible Girl,social_media,200615.79,2025-Q2,375546,36965
+Confessions of an Invisible Girl,influencer,116746.36,2025-Q2,240158,21156
+Confessions of an Invisible Girl,search,169490.06,2025-Q2,2696026,275991
+Confessions of an Invisible Girl,email,191441.59,2025-Q3,271790,27643
+Confessions of an Invisible Girl,display,162367.13,2025-Q3,2783418,2205
+Confessions of an Invisible Girl,social_media,39983.04,2025-Q3,1844380,216474
+Confessions of an Invisible Girl,search,146655.58,2025-Q3,880147,33032
+Confessions of an Invisible Girl,display,48905.43,2025-Q4,872821,2603
+Confessions of an Invisible Girl,influencer,104039.87,2025-Q4,271433,13103
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,social_media,110775.62,2025-Q1,1456101,170615
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,search,174388.7,2025-Q1,1455667,5945
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,display,170443.63,2025-Q1,629256,23046
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,social_media,11690.58,2025-Q2,1764873,126933
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,influencer,13983.7,2025-Q2,1371361,20762
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,search,67743.17,2025-Q2,2519704,297951
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,email,39708.54,2025-Q2,450339,27332
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,search,38242.44,2025-Q3,623068,37421
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,influencer,14152.77,2025-Q3,1390147,61845
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,display,217919.93,2025-Q3,2512501,69415
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,social_media,50126.36,2025-Q3,788620,7185
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,email,96247.37,2025-Q3,636523,4608
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,influencer,213332.41,2025-Q4,527612,50687
+Europe's Most Dangerous Man: Otto Skorzeny in Spain,social_media,55894.96,2025-Q4,2290534,161823
+Intrusion,search,60817.11,2025-Q1,781106,48660
+Intrusion,social_media,49476.19,2025-Q1,1638938,31603
+Intrusion,email,200168.73,2025-Q1,714058,32884
+Intrusion,display,86647.86,2025-Q2,958395,40882
+Intrusion,email,50489.26,2025-Q2,1726579,79224
+Intrusion,influencer,194266.19,2025-Q2,1299688,160753
+Intrusion,search,113466.02,2025-Q2,70873,2419
+Intrusion,influencer,70567.56,2025-Q3,278626,24370
+Intrusion,email,65641.72,2025-Q3,1953446,167895
+Intrusion,search,169155.13,2025-Q3,2671869,128141
+Intrusion,social_media,72798.34,2025-Q3,2452700,289435
+Intrusion,search,104167.64,2025-Q4,436358,22928
+Intrusion,email,173647.68,2025-Q4,1659137,106980
+Intrusion,social_media,95876.95,2025-Q4,1444671,148513
+Intrusion,influencer,212530.35,2025-Q4,1172022,128906
+Avvai Shanmughi,search,107039.83,2025-Q1,491351,18471
+Avvai Shanmughi,display,120819.47,2025-Q1,1599685,58455
+Avvai Shanmughi,social_media,66057.33,2025-Q1,2489427,195442
+Avvai Shanmughi,email,44017.22,2025-Q1,1901917,204805
+Avvai Shanmughi,influencer,248145.2,2025-Q1,1185796,104234
+Avvai Shanmughi,display,36184.04,2025-Q2,2708309,303297
+Avvai Shanmughi,search,140103.85,2025-Q2,1472220,66494
+Avvai Shanmughi,email,42753.51,2025-Q2,899547,93677
+Avvai Shanmughi,social_media,189969.66,2025-Q2,1678469,130460
+Avvai Shanmughi,influencer,231325.84,2025-Q2,682226,40034
+Avvai Shanmughi,display,25040.07,2025-Q3,2738354,240949
+Avvai Shanmughi,email,216535.77,2025-Q3,2976962,220334
+Avvai Shanmughi,influencer,71506.1,2025-Q4,2815508,151271
+Avvai Shanmughi,search,105651.95,2025-Q4,1427927,132127
+Avvai Shanmughi,email,188525.31,2025-Q4,1083271,7850
+Go! Go! Cory Carson: Chrissy Takes the Wheel,social_media,143549.16,2025-Q1,2525636,124922
+Go! Go! Cory Carson: Chrissy Takes the Wheel,email,155898.22,2025-Q1,2341679,41456
+Go! Go! Cory Carson: Chrissy Takes the Wheel,display,106743.74,2025-Q1,1536816,59878
+Go! Go! Cory Carson: Chrissy Takes the Wheel,influencer,170083.65,2025-Q1,2147542,44674
+Go! Go! Cory Carson: Chrissy Takes the Wheel,search,29869.0,2025-Q1,2211195,104145
+Go! Go! Cory Carson: Chrissy Takes the Wheel,social_media,202568.75,2025-Q2,2038032,35288
+Go! Go! Cory Carson: Chrissy Takes the Wheel,influencer,97987.2,2025-Q2,2027741,182176
+Go! Go! Cory Carson: Chrissy Takes the Wheel,email,45681.31,2025-Q2,67057,1781
+Go! Go! Cory Carson: Chrissy Takes the Wheel,display,72098.07,2025-Q2,2623392,223094
+Go! Go! Cory Carson: Chrissy Takes the Wheel,search,204556.97,2025-Q2,2373184,11013
+Go! Go! Cory Carson: Chrissy Takes the Wheel,email,55961.57,2025-Q3,602871,17054
+Go! Go! Cory Carson: Chrissy Takes the Wheel,display,244866.21,2025-Q3,1720305,206456
+Go! Go! Cory Carson: Chrissy Takes the Wheel,influencer,53132.53,2025-Q3,1299274,116873
+Go! Go! Cory Carson: Chrissy Takes the Wheel,search,188422.99,2025-Q4,2704300,87217
+Go! Go! Cory Carson: Chrissy Takes the Wheel,display,100207.1,2025-Q4,2996629,156471
+Go! Go! Cory Carson: Chrissy Takes the Wheel,email,89395.81,2025-Q4,1750620,54769
+Go! Go! Cory Carson: Chrissy Takes the Wheel,influencer,229704.47,2025-Q4,852181,79361
+Go! Go! Cory Carson: Chrissy Takes the Wheel,social_media,31676.77,2025-Q4,631727,77687
+Jeans,social_media,128878.64,2025-Q1,2838976,42903
+Jeans,search,248401.58,2025-Q1,510691,12896
+Jeans,email,162297.63,2025-Q1,2996565,201942
+Jeans,display,181058.29,2025-Q1,2428828,242258
+Jeans,influencer,115616.97,2025-Q2,2869557,14408
+Jeans,email,105865.01,2025-Q2,2359819,118543
+Jeans,display,32179.7,2025-Q3,489895,26534
+Jeans,search,31321.86,2025-Q3,1517605,150741
+Jeans,influencer,11747.27,2025-Q3,1733392,204442
+Jeans,influencer,148349.79,2025-Q4,391012,13759
+Jeans,display,60473.25,2025-Q4,1191586,72276
+Jeans,email,57783.82,2025-Q4,2842918,220814
+Minsara Kanavu,search,16169.67,2025-Q1,2412868,286996
+Minsara Kanavu,display,200299.9,2025-Q1,1162758,24228
+Minsara Kanavu,email,183450.75,2025-Q1,348461,29453
+Minsara Kanavu,social_media,125937.83,2025-Q1,958109,5941
+Minsara Kanavu,influencer,23108.79,2025-Q1,1102960,24892
+Minsara Kanavu,email,243953.3,2025-Q2,2475741,44535
+Minsara Kanavu,social_media,194056.47,2025-Q2,249483,28801
+Minsara Kanavu,search,214037.87,2025-Q3,549415,53979
+Minsara Kanavu,social_media,229414.76,2025-Q3,188329,3370
+Minsara Kanavu,email,219661.9,2025-Q3,2575901,21738
+Minsara Kanavu,influencer,65379.71,2025-Q3,655571,16989
+Minsara Kanavu,display,140611.72,2025-Q4,704044,8853
+Minsara Kanavu,influencer,56334.82,2025-Q4,878298,10789
+Minsara Kanavu,search,109239.44,2025-Q4,2966546,251638
+Grown Ups,email,55325.18,2025-Q1,2329793,201360
+Grown Ups,social_media,19396.37,2025-Q1,1408641,126973
+Grown Ups,social_media,33421.5,2025-Q2,617202,13813
+Grown Ups,email,147826.86,2025-Q2,1347873,5252
+Grown Ups,display,217520.77,2025-Q3,727681,69256
+Grown Ups,email,141133.12,2025-Q3,2798127,47276
+Grown Ups,influencer,75885.4,2025-Q3,550091,18369
+Grown Ups,display,194288.73,2025-Q4,2598341,112739
+Grown Ups,influencer,242589.44,2025-Q4,2048321,223595
+Grown Ups,social_media,129968.72,2025-Q4,2108813,200525
+Grown Ups,search,77168.19,2025-Q4,1848111,50157
+Grown Ups,email,153273.09,2025-Q4,1051776,73628
+Dark Skies,social_media,78908.04,2025-Q1,516401,44097
+Dark Skies,email,246538.99,2025-Q1,562184,38521
+Dark Skies,search,90346.02,2025-Q2,250844,3494
+Dark Skies,influencer,178946.69,2025-Q2,395615,22988
+Dark Skies,social_media,58359.77,2025-Q2,265583,14466
+Dark Skies,search,204466.45,2025-Q3,1464047,44835
+Dark Skies,email,249593.38,2025-Q3,786101,86981
+Dark Skies,social_media,126727.79,2025-Q3,1358152,20674
+Dark Skies,influencer,5494.07,2025-Q3,2704980,191465
+Dark Skies,display,74333.95,2025-Q3,322648,31575
+Dark Skies,influencer,153104.71,2025-Q4,2175184,116818
+Dark Skies,display,245384.61,2025-Q4,178452,13099
+Dark Skies,search,30961.89,2025-Q4,2686825,179642
+Dark Skies,email,111008.04,2025-Q4,1509064,174908
+Paranoia,search,213675.76,2025-Q1,822722,59753
+Paranoia,display,161347.13,2025-Q1,412480,30863
+Paranoia,influencer,43235.27,2025-Q1,1745368,35935
+Paranoia,email,191303.3,2025-Q1,1566766,107192
+Paranoia,social_media,94904.79,2025-Q1,1136285,101343
+Paranoia,email,167517.52,2025-Q2,398140,20271
+Paranoia,social_media,215460.25,2025-Q2,2792695,144893
+Paranoia,search,246773.02,2025-Q3,1635753,134495
+Paranoia,social_media,163829.09,2025-Q3,1815715,226744
+Paranoia,display,130428.07,2025-Q4,480366,58471
+Paranoia,social_media,6261.29,2025-Q4,2726685,216928
+Paranoia,influencer,105248.63,2025-Q4,2564506,31930
+Ankahi Kahaniya,social_media,6888.38,2025-Q1,1759782,45171
+Ankahi Kahaniya,email,52082.62,2025-Q1,516912,8976
+Ankahi Kahaniya,influencer,91037.72,2025-Q1,2816566,85587
+Ankahi Kahaniya,display,39301.71,2025-Q1,649052,73379
+Ankahi Kahaniya,search,42980.68,2025-Q2,105243,9782
+Ankahi Kahaniya,influencer,73040.91,2025-Q2,1420455,41775
+Ankahi Kahaniya,display,133872.17,2025-Q2,1551207,159858
+Ankahi Kahaniya,social_media,14558.36,2025-Q3,2374671,141496
+Ankahi Kahaniya,influencer,115830.93,2025-Q3,535792,30907
+Ankahi Kahaniya,search,96391.3,2025-Q3,476895,47172
+Ankahi Kahaniya,email,33288.0,2025-Q3,1082950,91971
+Ankahi Kahaniya,display,83077.68,2025-Q4,1908061,39173
+Ankahi Kahaniya,search,45359.34,2025-Q4,2747476,279193
+The Father Who Moves Mountains,social_media,33826.75,2025-Q1,2986888,349601
+The Father Who Moves Mountains,email,93049.13,2025-Q1,2102587,146889
+The Father Who Moves Mountains,search,245233.34,2025-Q1,2561528,244459
+The Father Who Moves Mountains,social_media,9212.44,2025-Q2,355294,2555
+The Father Who Moves Mountains,search,224263.97,2025-Q2,479189,41767
+The Father Who Moves Mountains,display,75486.12,2025-Q2,1431722,64592
+The Father Who Moves Mountains,social_media,232809.55,2025-Q3,1151579,76474
+The Father Who Moves Mountains,display,120035.09,2025-Q3,1769624,210680
+The Father Who Moves Mountains,influencer,116262.4,2025-Q3,2687412,68576
+The Father Who Moves Mountains,email,139897.66,2025-Q3,785203,12141
+The Father Who Moves Mountains,social_media,190222.14,2025-Q4,2137596,14074
+The Father Who Moves Mountains,email,170053.7,2025-Q4,1003551,61903
+The Father Who Moves Mountains,influencer,141786.23,2025-Q4,534059,20124
+The Stronghold,search,66392.35,2025-Q1,1054748,108743
+The Stronghold,email,181521.66,2025-Q1,2550901,302837
+The Stronghold,display,140374.65,2025-Q2,1494856,130233
+The Stronghold,influencer,197140.72,2025-Q2,2534523,300979
+The Stronghold,social_media,209358.32,2025-Q3,2578086,226404
+The Stronghold,display,143777.49,2025-Q3,254845,23592
+The Stronghold,influencer,78019.14,2025-Q3,692677,69134
+The Stronghold,email,153895.54,2025-Q3,2328437,225998
+The Stronghold,email,183332.49,2025-Q4,1679517,87916
+The Stronghold,social_media,107992.76,2025-Q4,1059119,62218
+Birth of the Dragon,display,102772.93,2025-Q1,653567,59216
+Birth of the Dragon,influencer,106521.75,2025-Q1,983948,55821
+Birth of the Dragon,search,167651.13,2025-Q1,339877,20584
+Birth of the Dragon,social_media,148997.74,2025-Q1,2364572,31716
+Birth of the Dragon,email,39303.29,2025-Q1,972545,84233
+Birth of the Dragon,influencer,52640.56,2025-Q2,1721297,162471
+Birth of the Dragon,display,155376.25,2025-Q2,2734974,322320
+Birth of the Dragon,display,215621.91,2025-Q3,806442,43350
+Birth of the Dragon,influencer,201663.3,2025-Q3,88379,9708
+Birth of the Dragon,search,74086.13,2025-Q3,822530,32508
+Birth of the Dragon,email,187266.93,2025-Q3,1100808,46641
+Birth of the Dragon,social_media,57085.01,2025-Q3,2198673,3499
+Birth of the Dragon,display,116320.45,2025-Q4,578562,41345
+Birth of the Dragon,social_media,32099.68,2025-Q4,1438289,90655
+Jaws,email,135971.41,2025-Q1,1372570,121202
+Jaws,social_media,74038.21,2025-Q1,2503496,16096
+Jaws,search,99122.32,2025-Q1,2142905,199612
+Jaws,search,45312.84,2025-Q2,1946573,17104
+Jaws,display,63594.65,2025-Q2,942946,30048
+Jaws,influencer,151947.02,2025-Q3,1555068,48522
+Jaws,display,233074.78,2025-Q3,396310,22112
+Jaws,email,161808.8,2025-Q3,634264,69860
+Jaws,search,153249.71,2025-Q4,1695467,49187
+Jaws,social_media,226681.16,2025-Q4,2944734,324609
+Jaws,influencer,152023.09,2025-Q4,1906490,42400
+Jaws,email,29306.15,2025-Q4,1289378,42149
+Jaws,display,152058.5,2025-Q4,599545,4465

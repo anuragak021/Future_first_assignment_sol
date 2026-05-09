@@ -1,0 +1,216 @@
+id,title,genre,release_year,director,budget,duration
+1,Stellar Run,Sci-Fi,2025,Yuki Tanaka,28000000,112
+2,Dark Orbit,Thriller,2024,Mikhail Petrov,18000000,108
+3,Last Kingdom,Drama,2024,James Carter,9000000,98
+4,Echo Valley,Romance,2025,Sara Lin,7500000,94
+5,Neon Nights,Comedy,2025,Amara Diallo,6000000,92
+6,Harbor Lights,Drama,2023,James Carter,8000000,102
+7,The Final Frontier,Sci-Fi,2024,Yuki Tanaka,22000000,130
+8,Mirage City,Thriller,2025,Mikhail Petrov,15000000,115
+9,Crimson Tide,Action,2024,Sara Lin,20000000,120
+10,Winter's Edge,Drama,2023,Amara Diallo,10000000,97
+11,Blue Horizon,Romance,2024,James Carter,8500000,90
+12,Phantom Signal,Sci-Fi,2025,Yuki Tanaka,17000000,105
+13,Rising Storm,Action,2025,Mikhail Petrov,24000000,125
+14,The Lost Archive,Mystery,2024,Sara Lin,9500000,99
+15,Silver Lining,Comedy,2023,Amara Diallo,5500000,88
+16,Dick Johnson Is Dead,Documentary,2020,Kirsten Johnson,32331913.12,90
+17,My Little Pony: A New Generation,Family,2021,"Robert Cullen, José Luis Ucha",2225527.01,91
+18,Sankofa,Drama,1993,Haile Gerima,14476436.6,125
+19,The Starling,Comedy,2021,Theodore Melfi,11937326.17,104
+20,Je Suis Karl,Drama,2021,Christian Schwochow,37087089.49,127
+21,Confessions of an Invisible Girl,Family,2021,Bruno Garotti,34158274.88,91
+22,Europe's Most Dangerous Man: Otto Skorzeny in Spain,Documentary,2020,"Pedro de Echave García, Pablo Azorín Williams",44716798.82,67
+23,Intrusion,Thriller,2021,Adam Salky,5260002.8,94
+24,Avvai Shanmughi,Comedy,1996,K.S. Ravikumar,21674169.16,161
+25,Go! Go! Cory Carson: Chrissy Takes the Wheel,Family,2021,"Alex Woo, Stanley Moore",2460063.75,61
+26,Jeans,Comedy,1998,S. Shankar,11713260.77,166
+27,Minsara Kanavu,Comedy,1997,Rajiv Menon,25762409.12,147
+28,Grown Ups,Comedy,2010,Dennis Dugan,2300262.51,103
+29,Dark Skies,Horror,2013,Scott Stewart,10743044.88,97
+30,Paranoia,Thriller,2013,Robert Luketic,32844337.45,106
+31,Ankahi Kahaniya,Drama,2021,"Ashwiny Iyer Tiwari, Abhishek Chaubey, Saket Chaudhary",27702132.55,111
+32,The Father Who Moves Mountains,Drama,2021,Daniel Sandu,11801590.48,110
+33,The Stronghold,Action,2021,Cédric Jimenez,29874018.51,105
+34,Birth of the Dragon,Action,2017,George Nolfi,40662092.38,96
+35,Jaws,Action,1975,Steven Spielberg,1318439.22,124
+36,Jaws 2,Drama,1978,Jeannot Szwarc,40485143.34,116
+37,Jaws 3,Action,1983,Joe Alves,35208830.35,98
+38,Jaws: The Revenge,Action,1987,Joseph Sargent,17672275.31,91
+39,My Heroes Were Cowboys,Documentary,2021,Tyler Greco,8618495.49,23
+40,Safe House,Action,2012,Daniel Espinosa,47903440.54,115
+41,Training Day,Drama,2001,Antoine Fuqua,17493132.71,122
+42,InuYasha the Movie 2: The Castle Beyond the Looking Glass,Action,2002,Toshiya Shinohara,5544546.33,99
+43,InuYasha the Movie 3: Swords of an Honorable Ruler,Action,2003,Toshiya Shinohara,5739102.46,99
+44,InuYasha the Movie 4: Fire on the Mystic Island,Action,2004,Toshiya Shinohara,42527223.95,88
+45,InuYasha the Movie: Affections Touching Across Time,Action,2001,Toshiya Shinohara,30582575.54,100
+46,Naruto Shippuden the Movie: Blood Prison,Action,2011,Masahiko Murata,40549285.39,102
+47,Naruto Shippûden the Movie: Bonds,Action,2008,Hajime Kamegaki,36756857.55,93
+48,Naruto Shippûden the Movie: The Will of Fire,Action,2009,Masahiko Murata,27275176.48,96
+49,Naruto Shippuden: The Movie,Action,2007,Hajime Kamegaki,48682672.43,95
+50,Naruto Shippuden: The Movie: The Lost Tower,Action,2010,Masahiko Murata,19548184.48,85
+51,Naruto the Movie 2: Legend of the Stone of Gelel,Action,2005,Hirotsugu Kawasaki,28049990.93,97
+52,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,Action,2006,Toshiyuki Tsuru,41640828.55,95
+53,Naruto the Movie: Ninja Clash in the Land of Snow,Action,2004,Tensai Okamura,31307467.87,83
+54,Nightbooks,Family,2021,David Yarovesky,43223638.12,103
+55,Schumacher,Documentary,2021,"Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech",29290255.12,113
+56,A StoryBots Space Adventure,Family,2021,David A. Vargas,35524019.97,13
+57,King of Boys,Drama,2018,Kemi Adetiba,3245394.8,182
+58,You vs. Wild: Out Cold,Family,2021,Ben Simms,12167015.51,106
+59,Little Singham - Black Shadow,Family,2021,Prakash Satam,15180010.22,48
+60,Tughlaq Durbar,Comedy,2020,Delhiprasad Deenadayalan,4909806.87,145
+61,Tughlaq Durbar (Telugu),Comedy,2021,Delhiprasad Deenadayalan,12406753.43,145
+62,Firedrake the Silver Dragon,Family,2021,Tomer Eshed,5949070.04,93
+63,Kate,Action,2021,Cedric Nicolas-Troyan,14620706.55,106
+64,Omo Ghetto: the Saga,Action,2020,"JJC Skillz, Funke Akindele",32148537.77,147
+65,Prey,International Movies,2021,Thomas Sieben,18876776.77,87
+66,Blood Brothers: Malcolm X & Muhammad Ali,Documentary,2021,Marcus Clarke,19138867.39,96
+67,Paradise Hills,Sci-Fi,2019,Alice Waddington,11265844.51,95
+68,The Women and the Murderer,Documentary,2021,"Mona Achache, Patricia Tourancheau",14081913.28,92
+69,JJ+E,Drama,2021,Alexis Almström,46896074.8,91
+70,Show Dogs,Family,2018,Raja Gosnell,32753733.88,90
+71,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,Documentary,2018,Stephen Kijak,30847419.28,97
+72,Untold: Breaking Point,Documentary,2021,"Chapman Way, Maclain Way",9385793.76,80
+73,Shadow Parties,Drama,2020,Yemi Amodu,36727213.1,117
+74,Angamaly Diaries,Action,2017,Lijo Jose Pellissery,9006722.19,128
+75,A Champion Heart,Family,2018,David de Vos,19593316.65,90
+76,Worth,Drama,2021,Sara Colangelo,49486644.18,119
+77,Afterlife of the Party,Comedy,2021,Stephen Herek,32359988.23,110
+78,Anjaam,Drama,1994,Rahul Rawail,28290537.44,143
+79,Bright Star,Drama,2009,Jane Campion,34546098.3,119
+80,Dhanak,Comedy,2015,Nagesh Kukunoor,42299744.09,114
+81,Final Account,Documentary,2021,Luke Holland,39023995.67,94
+82,Gurgaon,Drama,2017,Shanker Raman,12223355.53,106
+83,Here and There,Drama,2020,JP Habac,2572911.95,99
+84,In the Cut,Thriller,2003,Jane Campion,16457199.35,118
+85,Shikara,Drama,2020,Vidhu Vinod Chopra,14119302.92,115
+86,A Cinderella Story,Family,2004,Mark Rosman,11338159.34,95
+87,Agatha Christie's Crooked House,Drama,2017,Gilles Paquet-Brenner,47202576.0,115
+88,An Unfinished Life,Drama,2005,Lasse Hallström,43942013.7,108
+89,Barbie Big City Big Dreams,Family,2021,Scott Pleydell-Pearce,16419216.16,63
+90,Blade Runner: The Final Cut,Action,1982,Ridley Scott,33116494.6,117
+91,Chappie,Action,2015,Neill Blomkamp,20385963.15,121
+92,Clear and Present Danger,Action,1994,Phillip Noyce,45812831.9,142
+93,Cliffhanger,Action,1993,Renny Harlin,23483740.78,113
+94,Cold Mountain,Drama,2003,Anthony Minghella,13979128.16,154
+95,Crocodile Dundee in Los Angeles,Action,2001,Simon Wincer,13084747.88,95
+96,Dear John,Drama,2010,Lasse Hallström,28507038.57,108
+97,Do the Right Thing,Classic Movies,1989,Spike Lee,13874338.82,120
+98,"El patrón, radiografía de un crimen",Drama,2014,Sebastián Schindel,29644713.52,100
+99,Extraction,Action,2015,Steven C. Miller,44993321.3,82
+100,Freedom Writers,Drama,2007,Richard LaGravenese,20570624.75,124
+101,Green Lantern,Action,2011,Martin Campbell,11746717.2,114
+102,House Party,Comedy,1990,Reginald Hudlin,49879342.72,104
+103,House Party 2,Comedy,1991,"George Jackson, Doug McHenry",25966788.39,94
+104,House Party 3,Comedy,1994,Eric Meza,5454561.2,94
+105,I Got the Hook Up,Action,1998,Michael Martin,3308702.4,93
+106,In Too Deep,Thriller,1999,Michael Rymer,6372807.39,97
+107,Initial D,Action,2005,"Andrew Lau Wai-keung, Alan Mak",31744856.04,109
+108,Janoskians: Untold and Untrue,Comedy,2016,Brett Weiner,39811888.85,88
+109,Labyrinth,Action,1986,Jim Henson,21685838.37,101
+110,Letters to Juliet,Comedy,2010,Gary Winick,4112857.6,105
+111,Level 16,Sci-Fi,2018,Danishka Esterhazy,19699345.04,102
+112,Love Don't Cost a Thing,Comedy,2003,Troy Byer,49809947.63,101
+113,Love in a Puff,Comedy,2010,Pang Ho-cheung,26926602.91,103
+114,Mars Attacks!,Comedy,1996,Tim Burton,48582840.5,106
+115,Marshall,Drama,2017,Reginald Hudlin,43178205.41,118
+116,My Boss's Daughter,Comedy,2003,David Zucker,1562570.08,86
+117,Mystery Men,Action,1999,Kinka Usher,36315369.15,121
+118,Once Upon a Time in America,Classic Movies,1984,Sergio Leone,34403808.08,229
+119,Open Season 2,Family,2008,"Matthew O'Callaghan, Todd Wilderman",27311546.19,76
+120,Osmosis Jones,Action,2001,"Bobby Farrelly, Peter Farrelly",14074434.31,95
+121,Poseidon,Action,2006,Wolfgang Petersen,32407128.13,98
+122,Rhyme & Reason,Documentary,1997,Peter Spirer,6466056.51,89
+123,Same Kind of Different as Me,Drama,2017,Michael Carney,22303497.28,120
+124,School of Rock,Comedy,2003,Richard Linklater,23232461.61,110
+125,Snervous Tyler Oakley,Documentary,2015,Amy Rice,47736980.45,83
+126,Tears of the Sun,Action,2003,Antoine Fuqua,43916794.08,121
+127,The Blue Lagoon,Drama,1980,Randal Kleiser,13906063.49,105
+128,The Golden Child,Action,1986,Michael Ritchie,25528719.54,94
+129,The Guns of Navarone,Action,1961,J. Lee Thompson,9753942.15,156
+130,The Interview,Action,2014,"Evan Goldberg, Seth Rogen",45718764.13,112
+131,The Nutty Professor,Comedy,1996,Tom Shadyac,43655409.92,95
+132,The Nutty Professor II: The Klumps,Comedy,2000,Peter Segal,15623794.78,107
+133,Welcome Home Roscoe Jenkins,Comedy,2008,Malcolm D. Lee,32308525.25,114
+134,In the Line of Fire,Action,1993,Wolfgang Petersen,30839540.36,129
+135,Untold: Crime & Penalties,Documentary,2021,"Chapman Way, Maclain Way",8489124.16,86
+136,2 Alone in Paris,Comedy,2008,"Ramzy Bedia, Éric Judor",38363029.2,97
+137,Thimmarusu,Drama,2021,Sharan Koppisetty,27429572.48,125
+138,Wind River,Drama,2017,Taylor Sheridan,39152697.45,107
+139,C Kkompany,Action,2008,Sachin Yardi,26987329.94,127
+140,EMI: Liya Hai To Chukana Padega,Comedy,2008,Saurabh Kabra,1028022.91,128
+141,He's All That,Comedy,2021,Mark Waters,16883646.79,92
+142,Koi Aap Sa,Comedy,2006,Partho Mitra,1954360.38,135
+143,Krishna Cottage,Action,2004,Santram Varma,46525832.2,124
+144,Kucch To Hai,Drama,2003,"Anil V. Kumar, Anurag Basu",44057372.01,136
+145,Kyaa Kool Hai Hum,Comedy,2005,Sangeeth Sivan,41751610.94,165
+146,Kyaa Kool Hain Hum 3,Comedy,2016,Umesh Ghadge,16068192.14,124
+147,Kyaa Super Kool Hain Hum,Comedy,2012,Sachin Yardi,3838333.16,136
+148,Kyo Kii... Main Jhuth Nahin Bolta,Comedy,2001,David Dhawan,44022470.36,150
+149,"LSD: Love, Sex Aur Dhokha",Drama,2010,Dibakar Banerjee,47400522.82,112
+150,Mission Istaanbul: Darr Ke Aagey Jeet Hai,Action,2008,Apoorva Lakhia,5197019.15,119
+151,Once Upon a Time in Mumbaai,Drama,2010,Milan Luthria,24813532.7,133
+152,Once Upon a Time in Mumbai Dobaara!,Drama,2013,Milan Luthria,4391413.4,142
+153,Ragini MMS,Horror,2011,Pawan Kripalani,38269506.1,93
+154,Ragini MMS 2,Horror,2014,Bhushan Patel,38525887.04,113
+155,SAS: Rise of the Black Swan,Action,2021,Magnus Martens,7291181.76,124
+156,Shootout at Lokhandwala,Action,2007,Apoorva Lakhia,24288836.53,116
+157,Shor In the City,Comedy,2011,"Raj Nidimoru, Krishna D.K.",27940376.08,106
+158,The Dirty Picture,Comedy,2011,Milan Luthria,13987774.82,145
+159,"Bob Ross: Happy Accidents, Betrayal & Greed",Documentary,2021,Joshua Rofé,43749219.01,93
+160,Really Love,Drama,2020,Angel Kristi Williams,21733759.07,95
+161,The November Man,Action,2014,Roger Donaldson,11378112.07,108
+162,The Old Ways,Horror,2020,Christopher Alender,27425508.35,90
+163,The River Runner,Documentary,2021,Rush Sturges,36766622.39,86
+164,The Water Man,Family,2021,David Oyelowo,10856402.11,92
+165,Count Me In,Documentary,2021,Mark Lo,16274098.27,82
+166,Untold: Caitlyn Jenner,Documentary,2021,Crystal Moselle,49762318.48,70
+167,Boomika,Horror,2021,Rathindran R Prasad,32844024.82,122
+168,Boomika (Hindi),Horror,2021,Rathindran R Prasad,22466904.11,122
+169,Boomika (Malayalam),Horror,2021,Rathindran R Prasad,26361216.21,122
+170,Boomika (Telugu),Horror,2021,Rathindran R Prasad,6929205.6,122
+171,The Witcher: Nightmare of the Wolf,Action,2021,Han Kwang Il,12010169.51,84
+172,Gunshot,Drama,2018,Karim El Shenawy,17566192.55,96
+173,Man in Love,Drama,2021,Yin Chen-hao,29827127.2,115
+174,Sweet Girl,Action,2021,Brian Andrew Mendoza,12275621.9,110
+175,The Loud House Movie,Family,2021,Dave Needham,11790651.84,88
+176,A Faraway Land,Drama,2020,Veronica Velasco,4478661.21,102
+177,Like Crazy,Drama,2011,Drake Doremus,31924044.91,91
+178,Black Island,International Movies,2021,Miguel Alexandre,12218147.41,105
+179,Bombay,Drama,1995,Mani Ratnam,45365580.64,135
+180,Memories of a Murderer: The Nilsen Tapes,Documentary,2021,Michael Harte,43122134.61,86
+181,Nneka The Pretty Serpent,Drama,2020,Tosin Igho,4472010.14,140
+182,O Kadhal Kanmani,Drama,2015,Mani Ratnam,12662227.08,133
+183,Out of my league,Comedy,2020,Alice Filippi,33779911.14,92
+184,Pahuna,Comedy,2018,Paakhi Tyrewala,11497603.56,82
+185,The Secret Diary of an Exchange Student,Comedy,2021,Bruno Garotti,7483280.59,97
+186,Untold: Deal With the Devil,Documentary,2021,Laura Brownson,46840197.79,78
+187,Walk of Shame,Comedy,2014,Steve Brill,28981111.57,94
+188,The Piano,Classic Movies,1993,Jane Campion,24160880.29,121
+189,Unroyal,Drama,2020,Moses Inwang,39446351.79,97
+190,Beckett,Action,2021,Ferdinando Cito Filomarino,40567352.89,110
+191,Lokillo: Nothing's the Same,Comedy,2021,Julián Gaviria,10330085.8,64
+192,Monster Hunter: Legends of the Guild,Action,2021,Steven Yamamoto,5749609.9,59
+193,Brother Jekwu,Comedy,2016,Charles Uwagbai,22121507.94,101
+194,La diosa del asfalto,Drama,2020,Julián Hernández,21755352.53,127
+195,Misha and the Wolves,Documentary,2021,Sam Hobkinson,23884208.73,90
+196,The Kissing Booth 3,Comedy,2021,Vince Marcello,36724716.62,114
+197,The Railway Man,Drama,2013,Jonathan Teplitzky,33994862.82,108
+198,Untold: Malice at the Palace,Documentary,2021,Floyd Russ,49224095.36,70
+199,Quartet,Comedy,2012,Dustin Hoffman,5822475.69,98
+200,Slay,Comedy,2021,Adze Ugah,20728442.82,86
+201,Takizawa Kabuki ZERO 2020 The Movie,International Movies,2020,Hideaki Takizawa,17625827.66,139
+202,The Paper Tigers,Action,2021,Quoc Bao Tran,43221954.28,111
+203,Quam's Money,Comedy,2020,Kayode Kasum,13184160.36,115
+204,The Swarm,Horror,2021,Just Philippot,10320236.51,102
+205,Vivo,Family,2021,"Kirk DeMicco, Brandon Jeffords",22982063.84,100
+206,Chennai Express,Action,2013,Rohit Shetty,21672200.35,135
+207,City of God: 10 Years Later,Documentary,2013,"Cavi Borges, Luciano Vidigal",14648712.09,69
+208,Esperando la carroza,Comedy,1985,Alejandro Doria,13240515.95,95
+209,Lady Boss: The Jackie Collins Story,Documentary,2021,Laura Fairrie,46240014.36,97
+210,Tango Feroz,Classic Movies,1993,Marcelo Piñeyro,22713406.51,124
+211,'76,Drama,2016,Izu Ojukwu,43206106.13,118
+212,Aftermath,Horror,2021,Peter Winther,27965940.31,115
+213,American Masters: Inventing David Geffen,Movies,2012,Susan Lacy,3478828.15,115
+214,Heavy,Drama,1995,James Mangold,49964840.95,104
+215,Ije: The Journey,Drama,2010,Chineze Anyaene,41965351.67,106
